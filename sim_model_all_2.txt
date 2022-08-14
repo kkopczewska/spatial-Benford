@@ -1,0 +1,1001 @@
+"1D.pop.Benf" "1D.pop.MAD" "2D.geo.Benf" "2D.geo.MAD" "3D.socgeo.Benf" "3D.socgeo.MAD" "scenario"
+"1" "Close conformity" 0.00095 "Close conformity" 0.00109 "Nonconformity" 0.00267 1
+"2" "Acceptable conformity" 0.00128 "Close conformity" 0.00107 "Nonconformity" 0.00245 1
+"3" "Acceptable conformity" 0.00145 "Close conformity" 0.00096 "Marginally acceptable conformity" 0.00207 1
+"4" "Acceptable conformity" 0.00147 "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00219 1
+"5" "Acceptable conformity" 0.00148 "Acceptable conformity" 0.00124 "Nonconformity" 0.00231 1
+"6" "Acceptable conformity" 0.0013 "Acceptable conformity" 0.00127 "Nonconformity" 0.00263 1
+"7" "Acceptable conformity" 0.0013 "Close conformity" 0.00118 "Nonconformity" 0.00241 1
+"8" "Acceptable conformity" 0.00125 "Close conformity" 0.00107 "Nonconformity" 0.00245 1
+"9" "Acceptable conformity" 0.00159 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00217 1
+"10" "Close conformity" 0.00095 "Close conformity" 0.00094 "Marginally acceptable conformity" 0.00216 1
+"11" "Acceptable conformity" 0.00125 "Close conformity" 0.0011 "Nonconformity" 0.00239 1
+"12" "Close conformity" 0.00099 "Close conformity" 0.00104 "Nonconformity" 0.00223 1
+"13" "Acceptable conformity" 0.00139 "Close conformity" 0.00115 "Nonconformity" 0.00243 1
+"14" "Acceptable conformity" 0.00134 "Close conformity" 0.00118 "Nonconformity" 0.00254 1
+"15" "Acceptable conformity" 0.00127 "Close conformity" 0.00085 "Marginally acceptable conformity" 0.00213 1
+"16" "Acceptable conformity" 0.00126 "Acceptable conformity" 0.00125 "Nonconformity" 0.00253 1
+"17" "Close conformity" 0.00101 "Close conformity" 0.00097 "Nonconformity" 0.00221 1
+"18" "Acceptable conformity" 0.00142 "Close conformity" 0.00109 "Nonconformity" 0.00224 1
+"19" "Acceptable conformity" 0.00153 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00217 1
+"20" "Close conformity" 0.00112 "Close conformity" 0.00111 "Nonconformity" 0.00258 1
+"21" "Acceptable conformity" 0.00155 "Close conformity" 0.00113 "Nonconformity" 0.0025 1
+"22" "Close conformity" 0.00084 "Close conformity" 0.00107 "Nonconformity" 0.00235 1
+"23" "Acceptable conformity" 0.00132 "Close conformity" 0.00117 "Nonconformity" 0.00244 1
+"24" "Close conformity" 0.00113 "Close conformity" 9e-04 "Marginally acceptable conformity" 0.00195 1
+"25" "Acceptable conformity" 0.00123 "Close conformity" 0.00102 "Nonconformity" 0.00229 1
+"26" "Close conformity" 0.00119 "Acceptable conformity" 0.00123 "Nonconformity" 0.00247 1
+"27" "Acceptable conformity" 0.00123 "Acceptable conformity" 0.00121 "Marginally acceptable conformity" 0.00213 1
+"28" "Close conformity" 0.00112 "Close conformity" 0.00118 "Nonconformity" 0.0024 1
+"29" "Acceptable conformity" 0.00129 "Acceptable conformity" 0.00121 "Nonconformity" 0.00246 1
+"30" "Acceptable conformity" 0.00122 "Close conformity" 0.0011 "Nonconformity" 0.00223 1
+"31" "Close conformity" 0.00096 "Close conformity" 0.00102 "Nonconformity" 0.00233 1
+"32" "Acceptable conformity" 0.00143 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00215 1
+"33" "Close conformity" 0.00119 "Close conformity" 9e-04 "Marginally acceptable conformity" 0.002 1
+"34" "Acceptable conformity" 0.00162 "Close conformity" 0.00088 "Marginally acceptable conformity" 0.00205 1
+"35" "Close conformity" 9e-04 "Close conformity" 0.00093 "Nonconformity" 0.00234 1
+"36" "Close conformity" 0.00111 "Close conformity" 0.0011 "Nonconformity" 0.0023 1
+"37" "Acceptable conformity" 0.00143 "Close conformity" 0.00106 "Nonconformity" 0.00243 1
+"38" "Acceptable conformity" 0.00142 "Acceptable conformity" 0.00127 "Nonconformity" 0.0024 1
+"39" "Acceptable conformity" 0.00152 "Close conformity" 0.00119 "Marginally acceptable conformity" 0.00213 1
+"40" "Close conformity" 0.00091 "Acceptable conformity" 0.00127 "Nonconformity" 0.0024 1
+"41" "Acceptable conformity" 0.00129 "Close conformity" 0.00116 "Nonconformity" 0.0024 1
+"42" "Acceptable conformity" 0.00137 "Close conformity" 0.00115 "Nonconformity" 0.00238 1
+"43" "Close conformity" 0.00073 "Close conformity" 0.00106 "Nonconformity" 0.00257 1
+"44" "Acceptable conformity" 0.00144 "Close conformity" 0.00114 "Nonconformity" 0.00231 1
+"45" "Acceptable conformity" 0.00165 "Close conformity" 0.0011 "Marginally acceptable conformity" 0.0021 1
+"46" "Acceptable conformity" 0.0013 "Close conformity" 0.00115 "Nonconformity" 0.00243 1
+"47" "Acceptable conformity" 0.00125 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.0021 1
+"48" "Acceptable conformity" 0.00169 "Close conformity" 0.00118 "Nonconformity" 0.00247 1
+"49" "Acceptable conformity" 0.00147 "Close conformity" 0.00112 "Nonconformity" 0.00224 1
+"50" "Acceptable conformity" 0.0014 "Acceptable conformity" 0.00125 "Nonconformity" 0.00231 1
+"51" "Close conformity" 0.00107 "Close conformity" 0.00094 "Nonconformity" 0.0023 1
+"52" "Close conformity" 0.00112 "Acceptable conformity" 0.00123 "Nonconformity" 0.00236 1
+"53" "Close conformity" 0.00116 "Acceptable conformity" 0.00125 "Nonconformity" 0.00238 1
+"54" "Acceptable conformity" 0.00147 "Close conformity" 0.00098 "Nonconformity" 0.00223 1
+"55" "Close conformity" 0.00115 "Acceptable conformity" 0.00122 "Nonconformity" 0.00261 1
+"56" "Acceptable conformity" 0.00142 "Close conformity" 0.00093 "Nonconformity" 0.00238 1
+"57" "Acceptable conformity" 0.0015 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00213 1
+"58" "Close conformity" 0.00101 "Close conformity" 0.00089 "Nonconformity" 0.00234 1
+"59" "Acceptable conformity" 0.00132 "Close conformity" 0.00098 "Nonconformity" 0.00257 1
+"60" "Close conformity" 0.00109 "Close conformity" 0.00103 "Nonconformity" 0.00231 1
+"61" "Acceptable conformity" 0.00155 "Close conformity" 0.0011 "Marginally acceptable conformity" 0.00217 1
+"62" "Close conformity" 0.00103 "Close conformity" 0.00109 "Nonconformity" 0.00259 1
+"63" "Close conformity" 0.00092 "Acceptable conformity" 0.0012 "Nonconformity" 0.00229 1
+"64" "Acceptable conformity" 0.00134 "Close conformity" 0.00105 "Nonconformity" 0.00243 1
+"65" "Acceptable conformity" 0.00129 "Close conformity" 0.00094 "Marginally acceptable conformity" 0.00216 1
+"66" "Acceptable conformity" 0.00124 "Close conformity" 0.00107 "Nonconformity" 0.00228 1
+"67" "Acceptable conformity" 0.00148 "Close conformity" 0.00105 "Nonconformity" 0.00224 1
+"68" "Acceptable conformity" 0.0013 "Close conformity" 0.00105 "Nonconformity" 0.0025 1
+"69" "Acceptable conformity" 0.00124 "Close conformity" 0.00106 "Nonconformity" 0.00233 1
+"70" "Close conformity" 0.00111 "Close conformity" 0.00118 "Nonconformity" 0.00227 1
+"71" "Acceptable conformity" 0.00147 "Close conformity" 0.00101 "Nonconformity" 0.00222 1
+"72" "Close conformity" 0.00103 "Close conformity" 0.00103 "Nonconformity" 0.00223 1
+"73" "Close conformity" 0.00119 "Close conformity" 0.00115 "Nonconformity" 0.00232 1
+"74" "Close conformity" 0.00115 "Close conformity" 0.00107 "Nonconformity" 0.00238 1
+"75" "Close conformity" 0.00102 "Acceptable conformity" 0.00142 "Nonconformity" 0.00281 1
+"76" "Acceptable conformity" 0.0014 "Close conformity" 0.00108 "Nonconformity" 0.00259 1
+"77" "Acceptable conformity" 0.00134 "Close conformity" 0.00097 "Nonconformity" 0.00229 1
+"78" "Acceptable conformity" 0.0012 "Close conformity" 0.00103 "Nonconformity" 0.00225 1
+"79" "Close conformity" 0.00094 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00214 1
+"80" "Acceptable conformity" 0.0013 "Close conformity" 0.00087 "Marginally acceptable conformity" 0.00205 1
+"81" "Acceptable conformity" 0.00121 "Close conformity" 0.00096 "Nonconformity" 0.0023 1
+"82" "Close conformity" 0.00118 "Close conformity" 0.00117 "Nonconformity" 0.00227 1
+"83" "Acceptable conformity" 0.00143 "Close conformity" 0.00108 "Nonconformity" 0.00253 1
+"84" "Acceptable conformity" 0.00131 "Close conformity" 0.00081 "Nonconformity" 0.00224 1
+"85" "Acceptable conformity" 0.00136 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00213 1
+"86" "Acceptable conformity" 0.00133 "Close conformity" 0.00109 "Nonconformity" 0.00222 1
+"87" "Acceptable conformity" 0.0013 "Close conformity" 0.0011 "Marginally acceptable conformity" 0.00215 1
+"88" "Close conformity" 0.00102 "Close conformity" 0.00088 "Nonconformity" 0.00252 1
+"89" "Close conformity" 0.00115 "Close conformity" 0.00115 "Nonconformity" 0.00247 1
+"90" "Close conformity" 0.001 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00211 1
+"91" "Acceptable conformity" 0.00137 "Close conformity" 0.00118 "Nonconformity" 0.00232 1
+"92" "Acceptable conformity" 0.00123 "Close conformity" 0.00115 "Nonconformity" 0.00243 1
+"93" "Close conformity" 0.00093 "Acceptable conformity" 0.00124 "Nonconformity" 0.00252 1
+"94" "Acceptable conformity" 0.00167 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00201 1
+"95" "Close conformity" 0.00109 "Close conformity" 0.00103 "Nonconformity" 0.00224 1
+"96" "Acceptable conformity" 0.00164 "Acceptable conformity" 0.00125 "Nonconformity" 0.00246 1
+"97" "Close conformity" 0.00117 "Close conformity" 0.00105 "Nonconformity" 0.00221 1
+"98" "Close conformity" 0.00113 "Close conformity" 0.00098 "Nonconformity" 0.00226 1
+"99" "Acceptable conformity" 0.00133 "Close conformity" 0.00104 "Nonconformity" 0.00272 1
+"100" "Close conformity" 0.00112 "Close conformity" 0.00104 "Nonconformity" 0.00242 1
+"101" "Acceptable conformity" 0.00138 "Acceptable conformity" 0.00124 "Nonconformity" 0.00244 1
+"102" "Acceptable conformity" 0.00152 "Close conformity" 0.00097 "Nonconformity" 0.00234 1
+"103" "Acceptable conformity" 0.00159 "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00215 1
+"104" "Close conformity" 0.00105 "Close conformity" 0.00088 "Nonconformity" 0.00223 1
+"105" "Acceptable conformity" 0.00162 "Close conformity" 0.00114 "Nonconformity" 0.00223 1
+"106" "Close conformity" 0.00107 "Close conformity" 0.00113 "Nonconformity" 0.00233 1
+"107" "Close conformity" 0.00095 "Close conformity" 0.00119 "Nonconformity" 0.00253 1
+"108" "Close conformity" 0.00119 "Close conformity" 0.00092 "Nonconformity" 0.00264 1
+"109" "Acceptable conformity" 0.00142 "Close conformity" 0.001 "Nonconformity" 0.00234 1
+"110" "Acceptable conformity" 0.00155 "Acceptable conformity" 0.00128 "Nonconformity" 0.00241 1
+"111" "Acceptable conformity" 0.00159 "Close conformity" 0.00101 "Nonconformity" 0.00229 1
+"112" "Acceptable conformity" 0.0014 "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00207 1
+"113" "Close conformity" 0.00103 "Close conformity" 0.00116 "Nonconformity" 0.00239 1
+"114" "Close conformity" 0.00112 "Close conformity" 0.001 "Nonconformity" 0.00237 1
+"115" "Acceptable conformity" 0.00125 "Close conformity" 0.00101 "Nonconformity" 0.00245 1
+"116" "Acceptable conformity" 0.00165 "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00203 1
+"117" "Close conformity" 0.00119 "Close conformity" 0.00101 "Nonconformity" 0.00224 1
+"118" "Acceptable conformity" 0.00168 "Close conformity" 0.00112 "Nonconformity" 0.00245 1
+"119" "Acceptable conformity" 0.00159 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00191 1
+"120" "Acceptable conformity" 0.00147 "Acceptable conformity" 0.00126 "Nonconformity" 0.0026 1
+"121" "Close conformity" 0.00104 "Close conformity" 0.00104 "Nonconformity" 0.00236 1
+"122" "Close conformity" 0.00105 "Close conformity" 0.00098 "Nonconformity" 0.00223 1
+"123" "Acceptable conformity" 0.00132 "Acceptable conformity" 0.00132 "Nonconformity" 0.0025 1
+"124" "Close conformity" 0.00088 "Close conformity" 0.00119 "Nonconformity" 0.00277 1
+"125" "Acceptable conformity" 0.00138 "Close conformity" 0.00106 "Nonconformity" 0.00236 1
+"126" "Acceptable conformity" 0.00149 "Close conformity" 0.00105 "Nonconformity" 0.00223 1
+"127" "Close conformity" 0.00084 "Acceptable conformity" 0.00121 "Nonconformity" 0.00251 1
+"128" "Acceptable conformity" 0.00129 "Close conformity" 0.00111 "Nonconformity" 0.00226 1
+"129" "Acceptable conformity" 0.00135 "Close conformity" 0.00109 "Marginally acceptable conformity" 0.00215 1
+"130" "Acceptable conformity" 0.00123 "Close conformity" 0.00112 "Nonconformity" 0.00231 1
+"131" "Acceptable conformity" 0.00125 "Close conformity" 0.00107 "Nonconformity" 0.00243 1
+"132" "Acceptable conformity" 0.00134 "Close conformity" 0.00103 "Nonconformity" 0.00225 1
+"133" "Acceptable conformity" 0.00167 "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00212 1
+"134" "Acceptable conformity" 0.00138 "Acceptable conformity" 0.00126 "Nonconformity" 0.00237 1
+"135" "Close conformity" 0.00112 "Close conformity" 0.00118 "Nonconformity" 0.0024 1
+"136" "Acceptable conformity" 0.00121 "Acceptable conformity" 0.00122 "Nonconformity" 0.00232 1
+"137" "Close conformity" 0.00101 "Close conformity" 0.00096 "Marginally acceptable conformity" 0.00219 1
+"138" "Acceptable conformity" 0.00161 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00215 1
+"139" "Close conformity" 0.00116 "Close conformity" 0.00113 "Nonconformity" 0.0026 1
+"140" "Acceptable conformity" 0.00161 "Close conformity" 0.00103 "Nonconformity" 0.00223 1
+"141" "Acceptable conformity" 0.00125 "Close conformity" 0.00105 "Nonconformity" 0.00226 1
+"142" "Acceptable conformity" 0.00125 "Close conformity" 0.00101 "Nonconformity" 0.00225 1
+"143" "Acceptable conformity" 0.00121 "Close conformity" 0.001 "Nonconformity" 0.00223 1
+"144" "Close conformity" 0.00112 "Acceptable conformity" 0.00125 "Nonconformity" 0.00242 1
+"145" "Acceptable conformity" 0.00171 "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00204 1
+"146" "Close conformity" 0.00107 "Close conformity" 0.00101 "Nonconformity" 0.00235 1
+"147" "Acceptable conformity" 0.00127 "Close conformity" 0.00115 "Nonconformity" 0.00229 1
+"148" "Acceptable conformity" 0.00133 "Close conformity" 0.00095 "Nonconformity" 0.00224 1
+"149" "Acceptable conformity" 0.00129 "Close conformity" 0.00103 "Marginally acceptable conformity" 0.00218 1
+"150" "Acceptable conformity" 0.00134 "Close conformity" 0.0012 "Nonconformity" 0.00235 1
+"151" "Acceptable conformity" 0.00159 "Acceptable conformity" 0.0012 "Marginally acceptable conformity" 0.00218 1
+"152" "Close conformity" 0.00116 "Close conformity" 0.00112 "Nonconformity" 0.00249 1
+"153" "Acceptable conformity" 0.00131 "Acceptable conformity" 0.00146 "Nonconformity" 0.00235 1
+"154" "Close conformity" 0.00117 "Acceptable conformity" 0.00126 "Nonconformity" 0.00264 1
+"155" "Close conformity" 0.00118 "Close conformity" 0.00109 "Nonconformity" 0.00237 1
+"156" "Close conformity" 0.00109 "Close conformity" 0.00093 "Nonconformity" 0.00227 1
+"157" "Close conformity" 0.00113 "Close conformity" 0.00108 "Nonconformity" 0.00232 1
+"158" "Close conformity" 0.00116 "Close conformity" 0.00102 "Nonconformity" 0.00238 1
+"159" "Acceptable conformity" 0.00131 "Close conformity" 0.001 "Nonconformity" 0.0025 1
+"160" "Close conformity" 0.00117 "Close conformity" 0.00116 "Nonconformity" 0.00261 1
+"161" "Close conformity" 0.00103 "Close conformity" 0.00102 "Nonconformity" 0.0023 1
+"162" "Acceptable conformity" 0.00134 "Close conformity" 0.00098 "Marginally acceptable conformity" 0.0021 1
+"163" "Acceptable conformity" 0.00122 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00219 1
+"164" "Acceptable conformity" 0.00136 "Close conformity" 9e-04 "Nonconformity" 0.00225 1
+"165" "Acceptable conformity" 0.00125 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00218 1
+"166" "Acceptable conformity" 0.00128 "Close conformity" 0.00111 "Nonconformity" 0.0023 1
+"167" "Acceptable conformity" 0.00148 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.0021 1
+"168" "Acceptable conformity" 0.00122 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.0022 1
+"169" "Close conformity" 0.00115 "Close conformity" 0.00098 "Marginally acceptable conformity" 0.00208 1
+"170" "Close conformity" 0.00109 "Close conformity" 0.00103 "Marginally acceptable conformity" 0.00206 1
+"171" "Close conformity" 0.0011 "Close conformity" 0.00107 "Nonconformity" 0.00228 1
+"172" "Acceptable conformity" 0.00127 "Acceptable conformity" 0.00124 "Nonconformity" 0.00254 1
+"173" "Acceptable conformity" 0.00157 "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00215 1
+"174" "Acceptable conformity" 0.00147 "Close conformity" 0.00105 "Nonconformity" 0.00224 1
+"175" "Close conformity" 0.00105 "Close conformity" 0.00092 "Nonconformity" 0.00235 1
+"176" "Acceptable conformity" 0.00128 "Close conformity" 0.00118 "Nonconformity" 0.00235 1
+"177" "Acceptable conformity" 0.00142 "Acceptable conformity" 0.0012 "Nonconformity" 0.00227 1
+"178" "Close conformity" 0.00109 "Close conformity" 0.00116 "Nonconformity" 0.00232 1
+"179" "Close conformity" 0.00099 "Close conformity" 0.00091 "Marginally acceptable conformity" 0.00205 1
+"180" "Acceptable conformity" 0.00131 "Close conformity" 0.00091 "Marginally acceptable conformity" 0.00206 1
+"181" "Acceptable conformity" 0.00149 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00211 1
+"182" "Acceptable conformity" 0.00137 "Close conformity" 0.00118 "Nonconformity" 0.00242 1
+"183" "Acceptable conformity" 0.00133 "Close conformity" 0.00118 "Nonconformity" 0.00227 1
+"184" "Acceptable conformity" 0.00155 "Close conformity" 0.00104 "Nonconformity" 0.00226 1
+"185" "Acceptable conformity" 0.0013 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00202 1
+"186" "Close conformity" 0.00111 "Close conformity" 0.00107 "Nonconformity" 0.00239 1
+"187" "Acceptable conformity" 0.00124 "Close conformity" 0.00104 "Nonconformity" 0.00242 1
+"188" "Acceptable conformity" 0.00159 "Close conformity" 0.00117 "Nonconformity" 0.00253 1
+"189" "Close conformity" 9e-04 "Close conformity" 0.00111 "Nonconformity" 0.00255 1
+"190" "Acceptable conformity" 0.00131 "Close conformity" 0.00119 "Nonconformity" 0.0025 1
+"191" "Acceptable conformity" 0.00124 "Close conformity" 0.00099 "Nonconformity" 0.00227 1
+"192" "Acceptable conformity" 0.00138 "Close conformity" 0.00108 "Nonconformity" 0.00254 1
+"193" "Acceptable conformity" 0.00143 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00202 1
+"194" "Close conformity" 0.00103 "Acceptable conformity" 0.00127 "Nonconformity" 0.00241 1
+"195" "Close conformity" 0.00115 "Close conformity" 0.00115 "Nonconformity" 0.00242 1
+"196" "Acceptable conformity" 0.00138 "Close conformity" 9e-04 "Nonconformity" 0.00223 1
+"197" "Acceptable conformity" 0.00127 "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00209 1
+"198" "Acceptable conformity" 0.00158 "Close conformity" 0.00101 "Nonconformity" 0.00241 1
+"199" "Close conformity" 0.00093 "Acceptable conformity" 0.00125 "Nonconformity" 0.0026 1
+"200" "Acceptable conformity" 0.00126 "Acceptable conformity" 0.00126 "Nonconformity" 0.00263 1
+"201" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00296 2
+"202" "Close conformity" 0.00116 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00312 2
+"203" "Close conformity" 0.00107 "Acceptable conformity" 0.0018 "Nonconformity" 0.00291 2
+"204" "Acceptable conformity" 0.00142 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00288 2
+"205" "Close conformity" 0.00095 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00327 2
+"206" "Close conformity" 0.00104 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00335 2
+"207" "Acceptable conformity" 0.00144 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00298 2
+"208" "Acceptable conformity" 0.00128 "Marginally acceptable conformity" 0.00187 "Nonconformity" 0.00301 2
+"209" "Acceptable conformity" 0.00122 "Marginally acceptable conformity" 0.00188 "Nonconformity" 0.00336 2
+"210" "Acceptable conformity" 0.00137 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00311 2
+"211" "Close conformity" 0.00106 "Acceptable conformity" 0.00177 "Nonconformity" 0.003 2
+"212" "Acceptable conformity" 0.00134 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.0029 2
+"213" "Acceptable conformity" 0.00128 "Marginally acceptable conformity" 0.00205 "Nonconformity" 0.00313 2
+"214" "Acceptable conformity" 0.00145 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00293 2
+"215" "Acceptable conformity" 0.00135 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00297 2
+"216" "Acceptable conformity" 0.00132 "Marginally acceptable conformity" 0.00186 "Nonconformity" 0.00283 2
+"217" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00332 2
+"218" "Close conformity" 0.00105 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00297 2
+"219" "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00199 "Nonconformity" 0.00305 2
+"220" "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00333 2
+"221" "Close conformity" 0.00084 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00281 2
+"222" "Acceptable conformity" 0.00167 "Marginally acceptable conformity" 0.00185 "Nonconformity" 0.00276 2
+"223" "Acceptable conformity" 0.00163 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00282 2
+"224" "Acceptable conformity" 0.00127 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.00301 2
+"225" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00297 2
+"226" "Close conformity" 0.00103 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00324 2
+"227" "Acceptable conformity" 0.0012 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00283 2
+"228" "Close conformity" 0.0012 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00318 2
+"229" "Acceptable conformity" 0.00146 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00351 2
+"230" "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00186 "Nonconformity" 0.00316 2
+"231" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00332 2
+"232" "Acceptable conformity" 0.00139 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.0033 2
+"233" "Acceptable conformity" 0.00138 "Marginally acceptable conformity" 0.00207 "Nonconformity" 0.00326 2
+"234" "Acceptable conformity" 0.00136 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00294 2
+"235" "Close conformity" 0.00117 "Marginally acceptable conformity" 0.00185 "Nonconformity" 0.0031 2
+"236" "Acceptable conformity" 0.00144 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00296 2
+"237" "Close conformity" 0.00115 "Acceptable conformity" 0.00169 "Nonconformity" 0.00297 2
+"238" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00301 2
+"239" "Acceptable conformity" 0.00127 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00331 2
+"240" "Acceptable conformity" 0.00137 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00291 2
+"241" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00186 "Nonconformity" 0.00298 2
+"242" "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00205 "Nonconformity" 0.00319 2
+"243" "Close conformity" 0.00116 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.0031 2
+"244" "Acceptable conformity" 0.00145 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.00306 2
+"245" "Acceptable conformity" 0.0012 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00293 2
+"246" "Acceptable conformity" 0.00129 "Acceptable conformity" 0.00177 "Nonconformity" 0.00296 2
+"247" "Close conformity" 0.00104 "Marginally acceptable conformity" 0.00202 "Nonconformity" 0.00302 2
+"248" "Acceptable conformity" 0.00161 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00291 2
+"249" "Close conformity" 0.00074 "Acceptable conformity" 0.0018 "Nonconformity" 0.00326 2
+"250" "Acceptable conformity" 0.00147 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00305 2
+"251" "Acceptable conformity" 0.0014 "Acceptable conformity" 0.00179 "Nonconformity" 0.00287 2
+"252" "Acceptable conformity" 0.00123 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00302 2
+"253" "Acceptable conformity" 0.00138 "Marginally acceptable conformity" 0.00182 "Nonconformity" 0.00318 2
+"254" "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00317 2
+"255" "Close conformity" 0.00082 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00311 2
+"256" "Acceptable conformity" 0.00126 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00319 2
+"257" "Close conformity" 0.00094 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00319 2
+"258" "Acceptable conformity" 0.00122 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00316 2
+"259" "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00207 "Nonconformity" 0.00314 2
+"260" "Acceptable conformity" 0.00138 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00303 2
+"261" "Acceptable conformity" 0.00148 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.003 2
+"262" "Acceptable conformity" 0.0017 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00282 2
+"263" "Acceptable conformity" 0.00123 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00308 2
+"264" "Close conformity" 0.00103 "Acceptable conformity" 0.00179 "Nonconformity" 0.00335 2
+"265" "Close conformity" 0.00119 "Marginally acceptable conformity" 0.00186 "Nonconformity" 0.00325 2
+"266" "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00188 "Nonconformity" 0.00313 2
+"267" "Close conformity" 0.00111 "Marginally acceptable conformity" 0.00185 "Nonconformity" 0.00296 2
+"268" "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00302 2
+"269" "Acceptable conformity" 0.00163 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00306 2
+"270" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00291 2
+"271" "Acceptable conformity" 0.00142 "Marginally acceptable conformity" 0.00186 "Nonconformity" 0.00312 2
+"272" "Acceptable conformity" 0.00138 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00309 2
+"273" "Acceptable conformity" 0.00124 "Marginally acceptable conformity" 0.00182 "Nonconformity" 0.00308 2
+"274" "Acceptable conformity" 0.00142 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00325 2
+"275" "Acceptable conformity" 0.00155 "Acceptable conformity" 0.00176 "Nonconformity" 0.00299 2
+"276" "Close conformity" 0.00112 "Acceptable conformity" 0.00179 "Nonconformity" 0.00305 2
+"277" "Close conformity" 0.00111 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00303 2
+"278" "Close conformity" 0.00119 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00301 2
+"279" "Acceptable conformity" 0.00137 "Marginally acceptable conformity" 0.00205 "Nonconformity" 0.00303 2
+"280" "Acceptable conformity" 0.00146 "Marginally acceptable conformity" 0.00191 "Nonconformity" 0.00287 2
+"281" "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00208 "Nonconformity" 0.00323 2
+"282" "Acceptable conformity" 0.00134 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00309 2
+"283" "Acceptable conformity" 0.00148 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00314 2
+"284" "Acceptable conformity" 0.00151 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00284 2
+"285" "Acceptable conformity" 0.00134 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00327 2
+"286" "Acceptable conformity" 0.00139 "Marginally acceptable conformity" 0.00187 "Nonconformity" 0.00299 2
+"287" "Acceptable conformity" 0.00133 "Acceptable conformity" 0.00179 "Nonconformity" 0.00325 2
+"288" "Acceptable conformity" 0.00126 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00302 2
+"289" "Acceptable conformity" 0.00143 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00302 2
+"290" "Close conformity" 0.00105 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00307 2
+"291" "Acceptable conformity" 0.00158 "Marginally acceptable conformity" 0.00205 "Nonconformity" 0.00302 2
+"292" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00321 2
+"293" "Acceptable conformity" 0.00127 "Marginally acceptable conformity" 0.00185 "Nonconformity" 0.00304 2
+"294" "Acceptable conformity" 0.00128 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00318 2
+"295" "Acceptable conformity" 0.00148 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.00303 2
+"296" "Close conformity" 0.00105 "Marginally acceptable conformity" 0.00191 "Nonconformity" 0.00302 2
+"297" "Acceptable conformity" 0.00123 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00286 2
+"298" "Acceptable conformity" 0.00146 "Marginally acceptable conformity" 0.00187 "Nonconformity" 0.00304 2
+"299" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00279 2
+"300" "Acceptable conformity" 0.00121 "Marginally acceptable conformity" 0.00206 "Nonconformity" 0.00318 2
+"301" "Close conformity" 0.00112 "Acceptable conformity" 0.00168 "Nonconformity" 0.003 2
+"302" "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00307 2
+"303" "Acceptable conformity" 0.00135 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.003 2
+"304" "Close conformity" 0.00119 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00295 2
+"305" "Acceptable conformity" 0.00164 "Acceptable conformity" 0.0018 "Nonconformity" 0.00281 2
+"306" "Acceptable conformity" 0.00127 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00312 2
+"307" "Acceptable conformity" 0.00141 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00315 2
+"308" "Close conformity" 0.00105 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00308 2
+"309" "Acceptable conformity" 0.00138 "Marginally acceptable conformity" 0.00181 "Nonconformity" 0.00322 2
+"310" "Acceptable conformity" 0.0013 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00293 2
+"311" "Close conformity" 0.00118 "Marginally acceptable conformity" 0.00204 "Nonconformity" 0.00313 2
+"312" "Acceptable conformity" 0.00122 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00314 2
+"313" "Close conformity" 0.00114 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00293 2
+"314" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.0029 2
+"315" "Close conformity" 0.00111 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00293 2
+"316" "Acceptable conformity" 0.00139 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00294 2
+"317" "Acceptable conformity" 0.0012 "Marginally acceptable conformity" 0.00191 "Nonconformity" 0.00312 2
+"318" "Acceptable conformity" 0.00154 "Acceptable conformity" 0.00176 "Nonconformity" 0.00304 2
+"319" "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00333 2
+"320" "Acceptable conformity" 0.00123 "Acceptable conformity" 0.00176 "Nonconformity" 0.00294 2
+"321" "Acceptable conformity" 0.00121 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00312 2
+"322" "Acceptable conformity" 0.00134 "Acceptable conformity" 0.00177 "Nonconformity" 0.0029 2
+"323" "Acceptable conformity" 0.00149 "Marginally acceptable conformity" 0.00199 "Nonconformity" 0.0032 2
+"324" "Acceptable conformity" 0.00131 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00321 2
+"325" "Acceptable conformity" 0.00147 "Marginally acceptable conformity" 0.00202 "Nonconformity" 0.00325 2
+"326" "Acceptable conformity" 0.00169 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00303 2
+"327" "Acceptable conformity" 0.00122 "Marginally acceptable conformity" 0.00207 "Nonconformity" 0.00299 2
+"328" "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00188 "Nonconformity" 0.0031 2
+"329" "Close conformity" 0.0011 "Marginally acceptable conformity" 0.00191 "Nonconformity" 0.00324 2
+"330" "Close conformity" 0.00075 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00326 2
+"331" "Acceptable conformity" 0.0012 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.003 2
+"332" "Acceptable conformity" 0.00145 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00324 2
+"333" "Acceptable conformity" 0.00134 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00291 2
+"334" "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00299 2
+"335" "Acceptable conformity" 0.00124 "Marginally acceptable conformity" 0.00188 "Nonconformity" 0.00303 2
+"336" "Close conformity" 0.0012 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.00321 2
+"337" "Acceptable conformity" 0.00134 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00333 2
+"338" "Acceptable conformity" 0.00149 "Marginally acceptable conformity" 0.00187 "Nonconformity" 0.00308 2
+"339" "Acceptable conformity" 0.00126 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00321 2
+"340" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.0028 2
+"341" "Acceptable conformity" 0.00144 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00308 2
+"342" "Close conformity" 0.00098 "Marginally acceptable conformity" 0.00184 "Nonconformity" 0.00291 2
+"343" "Acceptable conformity" 0.00137 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00297 2
+"344" "Close conformity" 0.00105 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00297 2
+"345" "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00185 "Nonconformity" 0.00305 2
+"346" "Close conformity" 0.00106 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00315 2
+"347" "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00204 "Nonconformity" 0.00335 2
+"348" "Acceptable conformity" 0.00141 "Acceptable conformity" 0.00178 "Nonconformity" 0.00298 2
+"349" "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00318 2
+"350" "Acceptable conformity" 0.00127 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00313 2
+"351" "Acceptable conformity" 0.00155 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00305 2
+"352" "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00343 2
+"353" "Acceptable conformity" 0.00135 "Marginally acceptable conformity" 0.00206 "Nonconformity" 0.00341 2
+"354" "Close conformity" 0.001 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00335 2
+"355" "Close conformity" 0.00094 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00329 2
+"356" "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.00302 2
+"357" "Close conformity" 0.00116 "Marginally acceptable conformity" 0.00186 "Nonconformity" 0.00307 2
+"358" "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00297 2
+"359" "Acceptable conformity" 0.00142 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00289 2
+"360" "Acceptable conformity" 0.00136 "Marginally acceptable conformity" 0.00204 "Nonconformity" 0.00316 2
+"361" "Acceptable conformity" 0.00131 "Marginally acceptable conformity" 0.00199 "Nonconformity" 0.0032 2
+"362" "Close conformity" 0.00114 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.003 2
+"363" "Acceptable conformity" 0.00132 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00299 2
+"364" "Acceptable conformity" 0.00131 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00306 2
+"365" "Acceptable conformity" 0.00131 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00292 2
+"366" "Acceptable conformity" 0.00153 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00312 2
+"367" "Acceptable conformity" 0.00141 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00266 2
+"368" "Close conformity" 0.00109 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.00304 2
+"369" "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00199 "Nonconformity" 0.00307 2
+"370" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00287 2
+"371" "Acceptable conformity" 0.0015 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00296 2
+"372" "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00199 "Nonconformity" 0.00301 2
+"373" "Close conformity" 0.00093 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00317 2
+"374" "Acceptable conformity" 0.00151 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00308 2
+"375" "Acceptable conformity" 0.00127 "Acceptable conformity" 0.00174 "Nonconformity" 0.003 2
+"376" "Close conformity" 0.00119 "Marginally acceptable conformity" 0.00182 "Nonconformity" 0.0028 2
+"377" "Acceptable conformity" 0.00164 "Marginally acceptable conformity" 0.00192 "Nonconformity" 0.00276 2
+"378" "Close conformity" 0.0012 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00322 2
+"379" "Acceptable conformity" 0.0013 "Marginally acceptable conformity" 0.00198 "Nonconformity" 0.00313 2
+"380" "Close conformity" 0.00112 "Acceptable conformity" 0.00173 "Nonconformity" 0.00311 2
+"381" "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00207 "Nonconformity" 0.00299 2
+"382" "Acceptable conformity" 0.0014 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.00297 2
+"383" "Acceptable conformity" 0.00162 "Marginally acceptable conformity" 0.00189 "Nonconformity" 0.0028 2
+"384" "Acceptable conformity" 0.0012 "Marginally acceptable conformity" 0.00183 "Nonconformity" 0.00282 2
+"385" "Acceptable conformity" 0.00152 "Marginally acceptable conformity" 0.00193 "Nonconformity" 0.00304 2
+"386" "Acceptable conformity" 0.00139 "Marginally acceptable conformity" 0.00207 "Nonconformity" 0.00325 2
+"387" "Close conformity" 0.00071 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00321 2
+"388" "Acceptable conformity" 0.00152 "Marginally acceptable conformity" 0.00203 "Nonconformity" 0.00284 2
+"389" "Acceptable conformity" 0.00133 "Marginally acceptable conformity" 0.00195 "Nonconformity" 0.003 2
+"390" "Close conformity" 0.00085 "Marginally acceptable conformity" 0.00182 "Nonconformity" 0.00299 2
+"391" "Acceptable conformity" 0.00129 "Marginally acceptable conformity" 0.002 "Nonconformity" 0.00286 2
+"392" "Marginally acceptable conformity" 0.00187 "Marginally acceptable conformity" 0.00205 "Nonconformity" 0.00321 2
+"393" "Close conformity" 0.00097 "Marginally acceptable conformity" 0.00196 "Nonconformity" 0.00294 2
+"394" "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00205 "Nonconformity" 0.00304 2
+"395" "Acceptable conformity" 0.00153 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00307 2
+"396" "Close conformity" 0.00084 "Marginally acceptable conformity" 0.00197 "Nonconformity" 0.00295 2
+"397" "Acceptable conformity" 0.00159 "Marginally acceptable conformity" 0.00194 "Nonconformity" 0.00297 2
+"398" "Acceptable conformity" 0.00127 "Marginally acceptable conformity" 0.00191 "Nonconformity" 0.00309 2
+"399" "Acceptable conformity" 0.00123 "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00323 2
+"400" "Close conformity" 0.00084 "Marginally acceptable conformity" 0.00201 "Nonconformity" 0.00316 2
+"401" "Acceptable conformity" 0.00123 "Nonconformity" 0.0042 "Nonconformity" 0.00527 3
+"402" "Close conformity" 0.00106 "Nonconformity" 0.00427 "Nonconformity" 0.00483 3
+"403" "Acceptable conformity" 0.0012 "Nonconformity" 0.00417 "Nonconformity" 0.00493 3
+"404" "Acceptable conformity" 0.00146 "Nonconformity" 0.00423 "Nonconformity" 0.00497 3
+"405" "Close conformity" 0.00114 "Nonconformity" 0.00416 "Nonconformity" 0.00489 3
+"406" "Acceptable conformity" 0.0014 "Nonconformity" 0.0042 "Nonconformity" 0.00499 3
+"407" "Close conformity" 0.00113 "Nonconformity" 0.00434 "Nonconformity" 0.00486 3
+"408" "Acceptable conformity" 0.00133 "Nonconformity" 0.00416 "Nonconformity" 0.00493 3
+"409" "Close conformity" 0.00094 "Nonconformity" 0.00423 "Nonconformity" 0.00503 3
+"410" "Acceptable conformity" 0.00134 "Nonconformity" 0.00417 "Nonconformity" 0.00487 3
+"411" "Close conformity" 0.00111 "Nonconformity" 0.00428 "Nonconformity" 0.00493 3
+"412" "Acceptable conformity" 0.00171 "Nonconformity" 0.0043 "Nonconformity" 0.00496 3
+"413" "Acceptable conformity" 0.0014 "Nonconformity" 0.00418 "Nonconformity" 0.00501 3
+"414" "Acceptable conformity" 0.00123 "Nonconformity" 0.00422 "Nonconformity" 0.00506 3
+"415" "Acceptable conformity" 0.00157 "Nonconformity" 0.00422 "Nonconformity" 0.00502 3
+"416" "Close conformity" 0.00115 "Nonconformity" 0.00437 "Nonconformity" 0.00523 3
+"417" "Acceptable conformity" 0.00143 "Nonconformity" 0.00427 "Nonconformity" 0.00472 3
+"418" "Acceptable conformity" 0.00125 "Nonconformity" 0.00415 "Nonconformity" 0.00482 3
+"419" "Acceptable conformity" 0.00135 "Nonconformity" 0.00422 "Nonconformity" 0.00498 3
+"420" "Acceptable conformity" 0.00152 "Nonconformity" 0.00429 "Nonconformity" 0.00517 3
+"421" "Close conformity" 0.00116 "Nonconformity" 0.00411 "Nonconformity" 0.00477 3
+"422" "Acceptable conformity" 0.00143 "Nonconformity" 0.00415 "Nonconformity" 0.00492 3
+"423" "Acceptable conformity" 0.00153 "Nonconformity" 0.00414 "Nonconformity" 0.00513 3
+"424" "Acceptable conformity" 0.00129 "Nonconformity" 0.00404 "Nonconformity" 0.00497 3
+"425" "Acceptable conformity" 0.00126 "Nonconformity" 0.00412 "Nonconformity" 0.00511 3
+"426" "Acceptable conformity" 0.00139 "Nonconformity" 0.00416 "Nonconformity" 0.00468 3
+"427" "Acceptable conformity" 0.00146 "Nonconformity" 0.00415 "Nonconformity" 0.00502 3
+"428" "Acceptable conformity" 0.0012 "Nonconformity" 0.00418 "Nonconformity" 0.00516 3
+"429" "Close conformity" 0.00111 "Nonconformity" 0.0043 "Nonconformity" 0.00497 3
+"430" "Acceptable conformity" 0.00132 "Nonconformity" 0.00403 "Nonconformity" 0.00478 3
+"431" "Close conformity" 0.00114 "Nonconformity" 0.00422 "Nonconformity" 0.00489 3
+"432" "Acceptable conformity" 0.00174 "Nonconformity" 0.00431 "Nonconformity" 0.00488 3
+"433" "Acceptable conformity" 0.00128 "Nonconformity" 0.00429 "Nonconformity" 0.00522 3
+"434" "Acceptable conformity" 0.00142 "Nonconformity" 0.0039 "Nonconformity" 0.00486 3
+"435" "Close conformity" 0.00095 "Nonconformity" 0.00425 "Nonconformity" 0.00509 3
+"436" "Acceptable conformity" 0.00124 "Nonconformity" 0.00417 "Nonconformity" 0.00488 3
+"437" "Acceptable conformity" 0.00122 "Nonconformity" 0.00402 "Nonconformity" 0.00458 3
+"438" "Acceptable conformity" 0.00151 "Nonconformity" 0.00405 "Nonconformity" 0.00493 3
+"439" "Acceptable conformity" 0.00139 "Nonconformity" 0.00423 "Nonconformity" 0.00481 3
+"440" "Close conformity" 0.00106 "Nonconformity" 0.00424 "Nonconformity" 0.00485 3
+"441" "Acceptable conformity" 0.00136 "Nonconformity" 0.00429 "Nonconformity" 0.0048 3
+"442" "Acceptable conformity" 0.00159 "Nonconformity" 0.00406 "Nonconformity" 0.00518 3
+"443" "Close conformity" 0.00091 "Nonconformity" 0.0041 "Nonconformity" 0.00476 3
+"444" "Acceptable conformity" 0.00142 "Nonconformity" 0.00425 "Nonconformity" 0.00503 3
+"445" "Acceptable conformity" 0.00149 "Nonconformity" 0.00418 "Nonconformity" 0.0051 3
+"446" "Acceptable conformity" 0.00128 "Nonconformity" 0.00422 "Nonconformity" 0.00472 3
+"447" "Close conformity" 0.00114 "Nonconformity" 0.00419 "Nonconformity" 0.00481 3
+"448" "Acceptable conformity" 0.00142 "Nonconformity" 0.00435 "Nonconformity" 0.00474 3
+"449" "Acceptable conformity" 0.00143 "Nonconformity" 0.00426 "Nonconformity" 0.00496 3
+"450" "Acceptable conformity" 0.00121 "Nonconformity" 0.00402 "Nonconformity" 0.00526 3
+"451" "Acceptable conformity" 0.00177 "Nonconformity" 0.00407 "Nonconformity" 0.00484 3
+"452" "Acceptable conformity" 0.00127 "Nonconformity" 0.00405 "Nonconformity" 0.00487 3
+"453" "Close conformity" 0.00109 "Nonconformity" 0.00409 "Nonconformity" 0.00446 3
+"454" "Acceptable conformity" 0.00146 "Nonconformity" 0.00415 "Nonconformity" 0.00498 3
+"455" "Acceptable conformity" 0.00177 "Nonconformity" 0.00405 "Nonconformity" 0.00507 3
+"456" "Acceptable conformity" 0.00126 "Nonconformity" 0.0041 "Nonconformity" 0.00491 3
+"457" "Close conformity" 0.00101 "Nonconformity" 0.0042 "Nonconformity" 0.00501 3
+"458" "Close conformity" 0.00119 "Nonconformity" 0.0041 "Nonconformity" 0.00501 3
+"459" "Acceptable conformity" 0.00145 "Nonconformity" 0.00417 "Nonconformity" 0.00475 3
+"460" "Close conformity" 0.00115 "Nonconformity" 0.00415 "Nonconformity" 0.00492 3
+"461" "Close conformity" 0.00117 "Nonconformity" 0.00421 "Nonconformity" 0.00479 3
+"462" "Close conformity" 0.00101 "Nonconformity" 0.00419 "Nonconformity" 0.00495 3
+"463" "Close conformity" 0.00111 "Nonconformity" 0.00431 "Nonconformity" 0.00499 3
+"464" "Close conformity" 0.00104 "Nonconformity" 0.00402 "Nonconformity" 0.00481 3
+"465" "Close conformity" 0.00119 "Nonconformity" 0.00409 "Nonconformity" 0.00481 3
+"466" "Acceptable conformity" 0.00123 "Nonconformity" 0.00429 "Nonconformity" 0.00488 3
+"467" "Acceptable conformity" 0.00132 "Nonconformity" 0.004 "Nonconformity" 0.00512 3
+"468" "Close conformity" 0.0012 "Nonconformity" 0.0041 "Nonconformity" 0.00494 3
+"469" "Acceptable conformity" 0.00125 "Nonconformity" 0.00411 "Nonconformity" 0.00494 3
+"470" "Acceptable conformity" 0.00152 "Nonconformity" 0.00429 "Nonconformity" 0.00498 3
+"471" "Close conformity" 0.00113 "Nonconformity" 0.00423 "Nonconformity" 0.00491 3
+"472" "Close conformity" 0.00108 "Nonconformity" 0.00413 "Nonconformity" 0.0047 3
+"473" "Acceptable conformity" 0.00132 "Nonconformity" 0.00438 "Nonconformity" 0.00485 3
+"474" "Acceptable conformity" 0.00151 "Nonconformity" 0.00414 "Nonconformity" 0.0049 3
+"475" "Acceptable conformity" 0.00143 "Nonconformity" 0.00414 "Nonconformity" 0.00486 3
+"476" "Close conformity" 0.00114 "Nonconformity" 0.00421 "Nonconformity" 0.0047 3
+"477" "Close conformity" 0.00104 "Nonconformity" 0.00431 "Nonconformity" 0.00502 3
+"478" "Acceptable conformity" 0.00141 "Nonconformity" 0.00418 "Nonconformity" 0.00496 3
+"479" "Acceptable conformity" 0.00153 "Nonconformity" 0.00412 "Nonconformity" 0.00498 3
+"480" "Close conformity" 0.00102 "Nonconformity" 0.00422 "Nonconformity" 0.00492 3
+"481" "Acceptable conformity" 0.00123 "Nonconformity" 0.00425 "Nonconformity" 0.00503 3
+"482" "Acceptable conformity" 0.00139 "Nonconformity" 0.00412 "Nonconformity" 0.00465 3
+"483" "Close conformity" 0.00092 "Nonconformity" 0.0042 "Nonconformity" 0.00513 3
+"484" "Acceptable conformity" 0.00129 "Nonconformity" 0.00411 "Nonconformity" 0.00479 3
+"485" "Acceptable conformity" 0.00121 "Nonconformity" 0.00428 "Nonconformity" 0.00499 3
+"486" "Close conformity" 0.00111 "Nonconformity" 0.00424 "Nonconformity" 0.00501 3
+"487" "Acceptable conformity" 0.00149 "Nonconformity" 0.00402 "Nonconformity" 0.00485 3
+"488" "Close conformity" 0.00117 "Nonconformity" 0.00441 "Nonconformity" 0.00489 3
+"489" "Acceptable conformity" 0.00121 "Nonconformity" 0.00416 "Nonconformity" 0.00482 3
+"490" "Acceptable conformity" 0.00127 "Nonconformity" 0.0042 "Nonconformity" 0.005 3
+"491" "Acceptable conformity" 0.00133 "Nonconformity" 0.00413 "Nonconformity" 0.00496 3
+"492" "Close conformity" 0.00119 "Nonconformity" 0.0042 "Nonconformity" 0.00511 3
+"493" "Acceptable conformity" 0.00129 "Nonconformity" 0.00422 "Nonconformity" 0.0051 3
+"494" "Close conformity" 0.00114 "Nonconformity" 0.00416 "Nonconformity" 0.00481 3
+"495" "Acceptable conformity" 0.00125 "Nonconformity" 0.00412 "Nonconformity" 0.00457 3
+"496" "Acceptable conformity" 0.00122 "Nonconformity" 0.00425 "Nonconformity" 0.00505 3
+"497" "Acceptable conformity" 0.00124 "Nonconformity" 0.00428 "Nonconformity" 0.00506 3
+"498" "Acceptable conformity" 0.00147 "Nonconformity" 0.00413 "Nonconformity" 0.00512 3
+"499" "Acceptable conformity" 0.00122 "Nonconformity" 0.00421 "Nonconformity" 0.00479 3
+"500" "Acceptable conformity" 0.00129 "Nonconformity" 0.00415 "Nonconformity" 0.00511 3
+"501" "Acceptable conformity" 0.00122 "Nonconformity" 0.00417 "Nonconformity" 0.00498 3
+"502" "Close conformity" 0.00117 "Nonconformity" 0.00424 "Nonconformity" 0.00481 3
+"503" "Close conformity" 0.00118 "Nonconformity" 0.00414 "Nonconformity" 0.00452 3
+"504" "Close conformity" 0.00118 "Nonconformity" 0.0042 "Nonconformity" 0.00514 3
+"505" "Acceptable conformity" 0.00163 "Nonconformity" 0.00429 "Nonconformity" 0.00511 3
+"506" "Acceptable conformity" 0.00139 "Nonconformity" 0.00415 "Nonconformity" 0.00505 3
+"507" "Close conformity" 0.00109 "Nonconformity" 0.00417 "Nonconformity" 0.00465 3
+"508" "Close conformity" 0.00103 "Nonconformity" 0.00404 "Nonconformity" 0.005 3
+"509" "Acceptable conformity" 0.00122 "Nonconformity" 0.00421 "Nonconformity" 0.0047 3
+"510" "Close conformity" 0.00098 "Nonconformity" 0.00412 "Nonconformity" 0.00506 3
+"511" "Acceptable conformity" 0.00132 "Nonconformity" 0.00414 "Nonconformity" 0.00462 3
+"512" "Acceptable conformity" 0.00142 "Nonconformity" 0.00403 "Nonconformity" 0.00528 3
+"513" "Acceptable conformity" 0.0015 "Nonconformity" 0.00424 "Nonconformity" 0.0048 3
+"514" "Close conformity" 0.00112 "Nonconformity" 0.00414 "Nonconformity" 0.0049 3
+"515" "Acceptable conformity" 0.00136 "Nonconformity" 0.00423 "Nonconformity" 0.0051 3
+"516" "Acceptable conformity" 0.00122 "Nonconformity" 0.00431 "Nonconformity" 0.00506 3
+"517" "Close conformity" 0.00104 "Nonconformity" 0.00424 "Nonconformity" 0.00499 3
+"518" "Acceptable conformity" 0.00121 "Nonconformity" 0.00421 "Nonconformity" 0.00508 3
+"519" "Acceptable conformity" 0.00131 "Nonconformity" 0.00415 "Nonconformity" 0.00464 3
+"520" "Acceptable conformity" 0.00175 "Nonconformity" 0.00411 "Nonconformity" 0.00495 3
+"521" "Acceptable conformity" 0.00172 "Nonconformity" 0.0043 "Nonconformity" 0.00506 3
+"522" "Acceptable conformity" 0.00145 "Nonconformity" 0.00436 "Nonconformity" 0.00516 3
+"523" "Acceptable conformity" 0.00127 "Nonconformity" 0.00421 "Nonconformity" 0.00511 3
+"524" "Acceptable conformity" 0.00127 "Nonconformity" 0.00417 "Nonconformity" 0.00496 3
+"525" "Acceptable conformity" 0.00165 "Nonconformity" 0.00417 "Nonconformity" 0.00501 3
+"526" "Acceptable conformity" 0.00141 "Nonconformity" 0.00404 "Nonconformity" 0.00498 3
+"527" "Acceptable conformity" 0.00144 "Nonconformity" 0.00442 "Nonconformity" 0.00487 3
+"528" "Acceptable conformity" 0.00134 "Nonconformity" 0.0043 "Nonconformity" 0.0049 3
+"529" "Acceptable conformity" 0.0015 "Nonconformity" 0.00425 "Nonconformity" 0.00472 3
+"530" "Acceptable conformity" 0.00137 "Nonconformity" 0.00409 "Nonconformity" 0.00508 3
+"531" "Acceptable conformity" 0.00141 "Nonconformity" 0.00416 "Nonconformity" 0.00476 3
+"532" "Close conformity" 0.00107 "Nonconformity" 0.00425 "Nonconformity" 0.00498 3
+"533" "Acceptable conformity" 0.00128 "Nonconformity" 0.00415 "Nonconformity" 0.00474 3
+"534" "Acceptable conformity" 0.00145 "Nonconformity" 0.00411 "Nonconformity" 0.00454 3
+"535" "Acceptable conformity" 0.0012 "Nonconformity" 0.00432 "Nonconformity" 0.00485 3
+"536" "Close conformity" 0.00082 "Nonconformity" 0.00427 "Nonconformity" 0.00516 3
+"537" "Acceptable conformity" 0.00121 "Nonconformity" 0.00417 "Nonconformity" 0.00514 3
+"538" "Acceptable conformity" 0.00126 "Nonconformity" 0.00409 "Nonconformity" 0.00488 3
+"539" "Close conformity" 0.00111 "Nonconformity" 0.00412 "Nonconformity" 0.00501 3
+"540" "Close conformity" 0.00092 "Nonconformity" 0.00426 "Nonconformity" 0.00495 3
+"541" "Acceptable conformity" 0.00151 "Nonconformity" 0.00414 "Nonconformity" 0.00475 3
+"542" "Close conformity" 0.00064 "Nonconformity" 0.00428 "Nonconformity" 0.00483 3
+"543" "Acceptable conformity" 0.00123 "Nonconformity" 0.00414 "Nonconformity" 0.005 3
+"544" "Acceptable conformity" 0.00134 "Nonconformity" 0.00419 "Nonconformity" 0.00522 3
+"545" "Acceptable conformity" 0.00128 "Nonconformity" 0.00429 "Nonconformity" 0.00483 3
+"546" "Close conformity" 0.00094 "Nonconformity" 0.00418 "Nonconformity" 0.00486 3
+"547" "Close conformity" 0.00086 "Nonconformity" 0.00433 "Nonconformity" 0.00494 3
+"548" "Acceptable conformity" 0.00176 "Nonconformity" 0.00405 "Nonconformity" 0.00506 3
+"549" "Close conformity" 0.00111 "Nonconformity" 0.00428 "Nonconformity" 0.00485 3
+"550" "Acceptable conformity" 0.00125 "Nonconformity" 0.00411 "Nonconformity" 0.0047 3
+"551" "Close conformity" 0.00105 "Nonconformity" 0.00424 "Nonconformity" 0.00492 3
+"552" "Acceptable conformity" 0.00164 "Nonconformity" 0.00416 "Nonconformity" 0.00504 3
+"553" "Acceptable conformity" 0.00129 "Nonconformity" 0.00406 "Nonconformity" 0.00467 3
+"554" "Close conformity" 0.00113 "Nonconformity" 0.00428 "Nonconformity" 0.0049 3
+"555" "Acceptable conformity" 0.00125 "Nonconformity" 0.0043 "Nonconformity" 0.00523 3
+"556" "Acceptable conformity" 0.00156 "Nonconformity" 0.00418 "Nonconformity" 0.00482 3
+"557" "Acceptable conformity" 0.00126 "Nonconformity" 0.00408 "Nonconformity" 0.00477 3
+"558" "Close conformity" 0.00116 "Nonconformity" 0.0041 "Nonconformity" 0.005 3
+"559" "Close conformity" 0.00115 "Nonconformity" 0.00421 "Nonconformity" 0.0048 3
+"560" "Acceptable conformity" 0.00139 "Nonconformity" 0.00434 "Nonconformity" 0.00512 3
+"561" "Close conformity" 0.00113 "Nonconformity" 0.0043 "Nonconformity" 0.00514 3
+"562" "Acceptable conformity" 0.00132 "Nonconformity" 0.0043 "Nonconformity" 0.00489 3
+"563" "Acceptable conformity" 0.00144 "Nonconformity" 0.00421 "Nonconformity" 0.00481 3
+"564" "Acceptable conformity" 0.00127 "Nonconformity" 0.00415 "Nonconformity" 0.00469 3
+"565" "Close conformity" 0.00113 "Nonconformity" 0.00412 "Nonconformity" 0.00498 3
+"566" "Close conformity" 0.00086 "Nonconformity" 0.00416 "Nonconformity" 0.00495 3
+"567" "Acceptable conformity" 0.00139 "Nonconformity" 0.0042 "Nonconformity" 0.00513 3
+"568" "Close conformity" 0.00076 "Nonconformity" 0.00413 "Nonconformity" 0.00486 3
+"569" "Acceptable conformity" 0.00148 "Nonconformity" 0.00421 "Nonconformity" 0.00494 3
+"570" "Acceptable conformity" 0.00126 "Nonconformity" 0.00414 "Nonconformity" 0.00458 3
+"571" "Acceptable conformity" 0.0014 "Nonconformity" 0.00418 "Nonconformity" 0.00511 3
+"572" "Close conformity" 0.00113 "Nonconformity" 0.00426 "Nonconformity" 0.00497 3
+"573" "Acceptable conformity" 0.00124 "Nonconformity" 0.00408 "Nonconformity" 0.0048 3
+"574" "Acceptable conformity" 0.00136 "Nonconformity" 0.00424 "Nonconformity" 0.00477 3
+"575" "Acceptable conformity" 0.00141 "Nonconformity" 0.0042 "Nonconformity" 0.00492 3
+"576" "Acceptable conformity" 0.0013 "Nonconformity" 0.00428 "Nonconformity" 0.00514 3
+"577" "Close conformity" 0.00092 "Nonconformity" 0.00422 "Nonconformity" 0.00514 3
+"578" "Acceptable conformity" 0.00125 "Nonconformity" 0.00417 "Nonconformity" 0.00503 3
+"579" "Acceptable conformity" 0.00148 "Nonconformity" 0.00412 "Nonconformity" 0.00489 3
+"580" "Close conformity" 0.00112 "Nonconformity" 0.00418 "Nonconformity" 0.00504 3
+"581" "Acceptable conformity" 0.00125 "Nonconformity" 0.00417 "Nonconformity" 0.00514 3
+"582" "Close conformity" 0.00107 "Nonconformity" 0.00413 "Nonconformity" 0.00484 3
+"583" "Acceptable conformity" 0.00148 "Nonconformity" 0.00419 "Nonconformity" 0.00494 3
+"584" "Acceptable conformity" 0.00167 "Nonconformity" 0.00405 "Nonconformity" 0.00503 3
+"585" "Acceptable conformity" 0.0016 "Nonconformity" 0.00423 "Nonconformity" 0.00509 3
+"586" "Acceptable conformity" 0.00155 "Nonconformity" 0.00418 "Nonconformity" 0.00494 3
+"587" "Close conformity" 0.00115 "Nonconformity" 0.0042 "Nonconformity" 0.00509 3
+"588" "Close conformity" 0.00109 "Nonconformity" 0.00389 "Nonconformity" 0.00498 3
+"589" "Close conformity" 0.00116 "Nonconformity" 0.00418 "Nonconformity" 0.00514 3
+"590" "Close conformity" 0.00113 "Nonconformity" 0.00415 "Nonconformity" 0.00501 3
+"591" "Acceptable conformity" 0.00141 "Nonconformity" 0.0041 "Nonconformity" 0.0048 3
+"592" "Close conformity" 0.00108 "Nonconformity" 0.00406 "Nonconformity" 0.00473 3
+"593" "Acceptable conformity" 0.00139 "Nonconformity" 0.00424 "Nonconformity" 0.00507 3
+"594" "Acceptable conformity" 0.00128 "Nonconformity" 0.00406 "Nonconformity" 0.00508 3
+"595" "Close conformity" 0.00077 "Nonconformity" 0.00415 "Nonconformity" 0.00484 3
+"596" "Close conformity" 0.00117 "Nonconformity" 0.00419 "Nonconformity" 0.00508 3
+"597" "Close conformity" 0.00116 "Nonconformity" 0.00416 "Nonconformity" 0.00444 3
+"598" "Close conformity" 9e-04 "Nonconformity" 0.00431 "Nonconformity" 0.00498 3
+"599" "Close conformity" 0.00114 "Nonconformity" 0.00428 "Nonconformity" 0.00485 3
+"600" "Close conformity" 0.00098 "Nonconformity" 0.00402 "Nonconformity" 0.00477 3
+"601" "Nonconformity" 0.00237 "Acceptable conformity" 0.00123 "Marginally acceptable conformity" 0.00207 4
+"602" "Nonconformity" 0.00229 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00209 4
+"603" "Nonconformity" 0.00242 "Close conformity" 0.00092 "Marginally acceptable conformity" 0.00205 4
+"604" "Nonconformity" 0.00241 "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00214 4
+"605" "Marginally acceptable conformity" 0.00219 "Acceptable conformity" 0.00124 "Nonconformity" 0.00241 4
+"606" "Nonconformity" 0.00225 "Close conformity" 0.00109 "Marginally acceptable conformity" 0.00213 4
+"607" "Nonconformity" 0.00235 "Close conformity" 0.00108 "Nonconformity" 0.00222 4
+"608" "Nonconformity" 0.00237 "Acceptable conformity" 0.00122 "Marginally acceptable conformity" 0.00216 4
+"609" "Nonconformity" 0.00268 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00203 4
+"610" "Nonconformity" 0.0028 "Close conformity" 0.00111 "Marginally acceptable conformity" 0.00205 4
+"611" "Nonconformity" 0.00252 "Close conformity" 0.00104 "Nonconformity" 0.00225 4
+"612" "Marginally acceptable conformity" 0.00217 "Close conformity" 0.00116 "Nonconformity" 0.00222 4
+"613" "Nonconformity" 0.00239 "Close conformity" 0.00108 "Nonconformity" 0.00222 4
+"614" "Nonconformity" 0.00287 "Close conformity" 0.00105 "Nonconformity" 0.0022 4
+"615" "Nonconformity" 0.0027 "Acceptable conformity" 0.00125 "Nonconformity" 0.00242 4
+"616" "Nonconformity" 0.00236 "Close conformity" 0.00099 "Nonconformity" 0.00225 4
+"617" "Nonconformity" 0.00231 "Close conformity" 0.00103 "Nonconformity" 0.00225 4
+"618" "Nonconformity" 0.00249 "Close conformity" 0.00097 "Nonconformity" 0.00231 4
+"619" "Nonconformity" 0.00228 "Acceptable conformity" 0.00132 "Nonconformity" 0.00222 4
+"620" "Nonconformity" 0.00233 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00206 4
+"621" "Nonconformity" 0.00279 "Close conformity" 0.00088 "Nonconformity" 0.00224 4
+"622" "Nonconformity" 0.00242 "Close conformity" 0.00098 "Marginally acceptable conformity" 0.00195 4
+"623" "Nonconformity" 0.00274 "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00207 4
+"624" "Nonconformity" 0.00232 "Close conformity" 0.00117 "Nonconformity" 0.00223 4
+"625" "Nonconformity" 0.00275 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00207 4
+"626" "Nonconformity" 0.00237 "Close conformity" 0.00113 "Nonconformity" 0.00223 4
+"627" "Nonconformity" 0.00276 "Acceptable conformity" 0.00121 "Marginally acceptable conformity" 0.00208 4
+"628" "Nonconformity" 0.00236 "Close conformity" 0.00114 "Nonconformity" 0.00241 4
+"629" "Nonconformity" 0.00248 "Close conformity" 0.00104 "Nonconformity" 0.00232 4
+"630" "Nonconformity" 0.00247 "Acceptable conformity" 0.00121 "Nonconformity" 0.00221 4
+"631" "Nonconformity" 0.00255 "Close conformity" 0.00096 "Nonconformity" 0.00222 4
+"632" "Nonconformity" 0.00245 "Close conformity" 0.00084 "Nonconformity" 0.0022 4
+"633" "Nonconformity" 0.00231 "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00217 4
+"634" "Nonconformity" 0.00254 "Close conformity" 0.00099 "Nonconformity" 0.00227 4
+"635" "Nonconformity" 0.00232 "Close conformity" 0.00107 "Nonconformity" 0.00231 4
+"636" "Nonconformity" 0.00267 "Close conformity" 0.001 "Marginally acceptable conformity" 0.00204 4
+"637" "Nonconformity" 0.00249 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.0021 4
+"638" "Nonconformity" 0.00237 "Acceptable conformity" 0.00123 "Marginally acceptable conformity" 0.00208 4
+"639" "Nonconformity" 0.00275 "Close conformity" 0.00091 "Marginally acceptable conformity" 0.00212 4
+"640" "Nonconformity" 0.0024 "Close conformity" 0.00105 "Marginally acceptable conformity" 0.00197 4
+"641" "Nonconformity" 0.00225 "Close conformity" 0.00109 "Nonconformity" 0.00232 4
+"642" "Nonconformity" 0.00232 "Close conformity" 0.00103 "Nonconformity" 0.00238 4
+"643" "Nonconformity" 0.00242 "Close conformity" 0.00109 "Nonconformity" 0.00238 4
+"644" "Nonconformity" 0.00266 "Close conformity" 0.00095 "Nonconformity" 0.00235 4
+"645" "Nonconformity" 0.00256 "Close conformity" 0.0011 "Nonconformity" 0.00228 4
+"646" "Nonconformity" 0.00287 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00219 4
+"647" "Nonconformity" 0.00238 "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00217 4
+"648" "Nonconformity" 0.00299 "Close conformity" 0.00103 "Marginally acceptable conformity" 0.00211 4
+"649" "Nonconformity" 0.00244 "Close conformity" 0.00096 "Nonconformity" 0.00221 4
+"650" "Nonconformity" 0.00258 "Close conformity" 0.00111 "Marginally acceptable conformity" 0.00205 4
+"651" "Nonconformity" 0.0027 "Close conformity" 0.00119 "Marginally acceptable conformity" 0.00209 4
+"652" "Nonconformity" 0.00263 "Acceptable conformity" 0.00125 "Nonconformity" 0.00223 4
+"653" "Nonconformity" 0.00265 "Close conformity" 0.00096 "Nonconformity" 0.00223 4
+"654" "Nonconformity" 0.00277 "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00207 4
+"655" "Nonconformity" 0.00248 "Close conformity" 0.00105 "Nonconformity" 0.00224 4
+"656" "Nonconformity" 0.00231 "Close conformity" 0.00106 "Nonconformity" 0.00236 4
+"657" "Nonconformity" 0.0024 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00207 4
+"658" "Nonconformity" 0.00269 "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00216 4
+"659" "Nonconformity" 0.00273 "Close conformity" 0.00109 "Marginally acceptable conformity" 0.00207 4
+"660" "Nonconformity" 0.00243 "Close conformity" 0.00098 "Marginally acceptable conformity" 0.00214 4
+"661" "Nonconformity" 0.0023 "Close conformity" 0.00097 "Marginally acceptable conformity" 0.00213 4
+"662" "Nonconformity" 0.00243 "Acceptable conformity" 0.00124 "Marginally acceptable conformity" 0.00216 4
+"663" "Nonconformity" 0.00243 "Acceptable conformity" 0.00121 "Nonconformity" 0.00225 4
+"664" "Nonconformity" 0.00245 "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00219 4
+"665" "Nonconformity" 0.00241 "Close conformity" 0.00108 "Nonconformity" 0.00227 4
+"666" "Nonconformity" 0.00275 "Acceptable conformity" 0.00122 "Nonconformity" 0.00226 4
+"667" "Nonconformity" 0.00251 "Close conformity" 0.00113 "Nonconformity" 0.00226 4
+"668" "Nonconformity" 0.0024 "Close conformity" 0.00094 "Nonconformity" 0.00228 4
+"669" "Nonconformity" 0.00235 "Close conformity" 0.00107 "Nonconformity" 0.00238 4
+"670" "Nonconformity" 0.00268 "Close conformity" 0.0011 "Nonconformity" 0.00244 4
+"671" "Nonconformity" 0.00263 "Close conformity" 0.00096 "Nonconformity" 0.00223 4
+"672" "Nonconformity" 0.0023 "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00205 4
+"673" "Nonconformity" 0.00257 "Close conformity" 0.00117 "Marginally acceptable conformity" 0.00216 4
+"674" "Nonconformity" 0.00258 "Close conformity" 0.00098 "Marginally acceptable conformity" 0.00214 4
+"675" "Nonconformity" 0.00255 "Acceptable conformity" 0.0012 "Nonconformity" 0.00242 4
+"676" "Nonconformity" 0.00262 "Close conformity" 0.00093 "Marginally acceptable conformity" 0.002 4
+"677" "Nonconformity" 0.00258 "Close conformity" 0.00104 "Marginally acceptable conformity" 0.00202 4
+"678" "Nonconformity" 0.00256 "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00217 4
+"679" "Nonconformity" 0.0024 "Acceptable conformity" 0.00123 "Nonconformity" 0.00223 4
+"680" "Nonconformity" 0.00246 "Close conformity" 0.00109 "Nonconformity" 0.00227 4
+"681" "Nonconformity" 0.00221 "Close conformity" 0.00101 "Nonconformity" 0.0023 4
+"682" "Nonconformity" 0.00237 "Close conformity" 0.00103 "Marginally acceptable conformity" 0.00209 4
+"683" "Nonconformity" 0.00254 "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00217 4
+"684" "Nonconformity" 0.00251 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00199 4
+"685" "Nonconformity" 0.00248 "Close conformity" 0.00092 "Marginally acceptable conformity" 0.0022 4
+"686" "Nonconformity" 0.00226 "Acceptable conformity" 0.00131 "Marginally acceptable conformity" 0.00208 4
+"687" "Nonconformity" 0.00265 "Close conformity" 0.00113 "Nonconformity" 0.00252 4
+"688" "Nonconformity" 0.00251 "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00217 4
+"689" "Nonconformity" 0.00249 "Acceptable conformity" 0.00123 "Nonconformity" 0.00222 4
+"690" "Nonconformity" 0.00233 "Acceptable conformity" 0.00124 "Marginally acceptable conformity" 0.00219 4
+"691" "Nonconformity" 0.00279 "Close conformity" 0.00104 "Marginally acceptable conformity" 0.00198 4
+"692" "Nonconformity" 0.0025 "Close conformity" 0.00094 "Nonconformity" 0.00226 4
+"693" "Nonconformity" 0.00269 "Acceptable conformity" 0.00134 "Nonconformity" 0.00234 4
+"694" "Nonconformity" 0.00228 "Close conformity" 0.00106 "Nonconformity" 0.00225 4
+"695" "Nonconformity" 0.00293 "Close conformity" 0.00094 "Marginally acceptable conformity" 0.00219 4
+"696" "Nonconformity" 0.00255 "Acceptable conformity" 0.00124 "Marginally acceptable conformity" 0.00215 4
+"697" "Nonconformity" 0.00245 "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00199 4
+"698" "Nonconformity" 0.00248 "Close conformity" 0.00108 "Nonconformity" 0.00221 4
+"699" "Nonconformity" 0.00246 "Close conformity" 0.00117 "Nonconformity" 0.00249 4
+"700" "Nonconformity" 0.00257 "Acceptable conformity" 0.00124 "Marginally acceptable conformity" 0.00212 4
+"701" "Nonconformity" 0.00268 "Close conformity" 0.00116 "Nonconformity" 0.00227 4
+"702" "Nonconformity" 0.00265 "Close conformity" 0.00118 "Marginally acceptable conformity" 0.00216 4
+"703" "Nonconformity" 0.00244 "Close conformity" 0.00099 "Marginally acceptable conformity" 0.00202 4
+"704" "Nonconformity" 0.00249 "Close conformity" 0.00118 "Marginally acceptable conformity" 0.0022 4
+"705" "Nonconformity" 0.00233 "Close conformity" 0.00092 "Nonconformity" 0.00248 4
+"706" "Nonconformity" 0.00273 "Acceptable conformity" 0.0012 "Nonconformity" 0.00249 4
+"707" "Nonconformity" 0.00259 "Acceptable conformity" 0.00121 "Marginally acceptable conformity" 0.00191 4
+"708" "Nonconformity" 0.00234 "Acceptable conformity" 0.00126 "Nonconformity" 0.00242 4
+"709" "Nonconformity" 0.00235 "Close conformity" 9e-04 "Marginally acceptable conformity" 0.00209 4
+"710" "Nonconformity" 0.00254 "Close conformity" 0.00096 "Nonconformity" 0.00241 4
+"711" "Nonconformity" 0.00261 "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00218 4
+"712" "Nonconformity" 0.00244 "Close conformity" 0.00102 "Nonconformity" 0.0022 4
+"713" "Nonconformity" 0.00267 "Close conformity" 0.0012 "Marginally acceptable conformity" 0.00206 4
+"714" "Nonconformity" 0.00274 "Close conformity" 0.00119 "Nonconformity" 0.00224 4
+"715" "Nonconformity" 0.00241 "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00214 4
+"716" "Nonconformity" 0.00293 "Close conformity" 0.0011 "Marginally acceptable conformity" 0.00202 4
+"717" "Nonconformity" 0.00257 "Close conformity" 8e-04 "Nonconformity" 0.00221 4
+"718" "Nonconformity" 0.00244 "Close conformity" 0.00091 "Marginally acceptable conformity" 0.00217 4
+"719" "Nonconformity" 0.00238 "Acceptable conformity" 0.00129 "Nonconformity" 0.00223 4
+"720" "Nonconformity" 0.0024 "Close conformity" 0.00108 "Nonconformity" 0.00247 4
+"721" "Nonconformity" 0.0029 "Acceptable conformity" 0.00139 "Marginally acceptable conformity" 0.00209 4
+"722" "Nonconformity" 0.00257 "Close conformity" 0.00114 "Marginally acceptable conformity" 0.00202 4
+"723" "Nonconformity" 0.00258 "Close conformity" 0.00109 "Marginally acceptable conformity" 0.00203 4
+"724" "Nonconformity" 0.00269 "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00206 4
+"725" "Nonconformity" 0.00263 "Close conformity" 0.00092 "Marginally acceptable conformity" 0.00205 4
+"726" "Nonconformity" 0.00232 "Close conformity" 0.00104 "Nonconformity" 0.0022 4
+"727" "Nonconformity" 0.00264 "Close conformity" 0.00107 "Nonconformity" 0.0023 4
+"728" "Nonconformity" 0.00282 "Close conformity" 0.00098 "Nonconformity" 0.00231 4
+"729" "Nonconformity" 0.00264 "Close conformity" 0.00111 "Nonconformity" 0.00226 4
+"730" "Nonconformity" 0.00258 "Close conformity" 0.00091 "Marginally acceptable conformity" 0.00212 4
+"731" "Nonconformity" 0.00268 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00217 4
+"732" "Nonconformity" 0.00301 "Acceptable conformity" 0.00125 "Marginally acceptable conformity" 0.00211 4
+"733" "Nonconformity" 0.00272 "Close conformity" 0.00101 "Marginally acceptable conformity" 0.00208 4
+"734" "Nonconformity" 0.00263 "Close conformity" 0.001 "Nonconformity" 0.00223 4
+"735" "Marginally acceptable conformity" 0.00206 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00192 4
+"736" "Nonconformity" 0.0026 "Close conformity" 0.00095 "Marginally acceptable conformity" 0.00218 4
+"737" "Nonconformity" 0.00237 "Close conformity" 0.001 "Marginally acceptable conformity" 0.00204 4
+"738" "Nonconformity" 0.0024 "Close conformity" 0.00119 "Nonconformity" 0.00229 4
+"739" "Nonconformity" 0.00244 "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00201 4
+"740" "Nonconformity" 0.00236 "Acceptable conformity" 0.00126 "Nonconformity" 0.00234 4
+"741" "Nonconformity" 0.00274 "Close conformity" 0.00112 "Marginally acceptable conformity" 0.00213 4
+"742" "Nonconformity" 0.00266 "Close conformity" 0.00115 "Marginally acceptable conformity" 0.00218 4
+"743" "Nonconformity" 0.00269 "Acceptable conformity" 0.00122 "Nonconformity" 0.00229 4
+"744" "Nonconformity" 0.00291 "Close conformity" 0.00103 "Nonconformity" 0.0023 4
+"745" "Nonconformity" 0.00283 "Close conformity" 0.00116 "Nonconformity" 0.00247 4
+"746" "Nonconformity" 0.00277 "Close conformity" 0.00113 "Nonconformity" 0.00253 4
+"747" "Marginally acceptable conformity" 0.00215 "Acceptable conformity" 0.00134 "Marginally acceptable conformity" 0.00203 4
+"748" "Nonconformity" 0.00273 "Close conformity" 0.00084 "Marginally acceptable conformity" 0.00205 4
+"749" "Nonconformity" 0.00284 "Close conformity" 0.00095 "Nonconformity" 0.00223 4
+"750" "Nonconformity" 0.00265 "Close conformity" 0.00102 "Marginally acceptable conformity" 0.0021 4
+"751" "Nonconformity" 0.00248 "Close conformity" 0.00105 "Nonconformity" 0.00234 4
+"752" "Nonconformity" 0.00254 "Close conformity" 0.00104 "Marginally acceptable conformity" 0.00199 4
+"753" "Nonconformity" 0.00259 "Close conformity" 0.00106 "Marginally acceptable conformity" 0.00212 4
+"754" "Nonconformity" 0.00241 "Acceptable conformity" 0.00132 "Marginally acceptable conformity" 0.00209 4
+"755" "Nonconformity" 0.00265 "Close conformity" 0.00114 "Nonconformity" 0.00226 4
+"756" "Marginally acceptable conformity" 0.0021 "Close conformity" 0.00095 "Marginally acceptable conformity" 0.00214 4
+"757" "Nonconformity" 0.00222 "Acceptable conformity" 0.00133 "Marginally acceptable conformity" 0.00213 4
+"758" "Marginally acceptable conformity" 0.00207 "Close conformity" 0.00108 "Nonconformity" 0.00241 4
+"759" "Nonconformity" 0.00253 "Close conformity" 0.00119 "Marginally acceptable conformity" 0.00207 4
+"760" "Nonconformity" 0.00246 "Acceptable conformity" 0.00123 "Nonconformity" 0.00221 4
+"761" "Nonconformity" 0.00253 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00198 4
+"762" "Nonconformity" 0.00242 "Close conformity" 0.00096 "Nonconformity" 0.00234 4
+"763" "Nonconformity" 0.00242 "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00212 4
+"764" "Nonconformity" 0.00258 "Close conformity" 0.001 "Marginally acceptable conformity" 0.00215 4
+"765" "Nonconformity" 0.00222 "Close conformity" 0.00108 "Nonconformity" 0.00227 4
+"766" "Nonconformity" 0.00256 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.00214 4
+"767" "Nonconformity" 0.00288 "Close conformity" 0.00119 "Nonconformity" 0.00226 4
+"768" "Nonconformity" 0.00246 "Close conformity" 0.00088 "Nonconformity" 0.00224 4
+"769" "Nonconformity" 0.00253 "Close conformity" 0.00098 "Nonconformity" 0.00228 4
+"770" "Nonconformity" 0.00287 "Close conformity" 0.00113 "Marginally acceptable conformity" 0.00208 4
+"771" "Nonconformity" 0.00256 "Close conformity" 0.00109 "Nonconformity" 0.00241 4
+"772" "Nonconformity" 0.00257 "Close conformity" 0.00116 "Nonconformity" 0.0023 4
+"773" "Nonconformity" 0.00252 "Acceptable conformity" 0.00121 "Marginally acceptable conformity" 0.00211 4
+"774" "Nonconformity" 0.00257 "Close conformity" 0.00096 "Marginally acceptable conformity" 0.0022 4
+"775" "Nonconformity" 0.003 "Close conformity" 0.00111 "Nonconformity" 0.00241 4
+"776" "Nonconformity" 0.00237 "Close conformity" 0.00108 "Marginally acceptable conformity" 0.0022 4
+"777" "Nonconformity" 0.00254 "Acceptable conformity" 0.00122 "Nonconformity" 0.00258 4
+"778" "Marginally acceptable conformity" 0.00218 "Close conformity" 0.00105 "Marginally acceptable conformity" 0.00196 4
+"779" "Nonconformity" 0.00243 "Close conformity" 0.00114 "Nonconformity" 0.0022 4
+"780" "Nonconformity" 0.00269 "Close conformity" 0.00101 "Nonconformity" 0.00235 4
+"781" "Nonconformity" 0.00283 "Close conformity" 0.00103 "Nonconformity" 0.0023 4
+"782" "Nonconformity" 0.00256 "Close conformity" 0.00091 "Marginally acceptable conformity" 0.0021 4
+"783" "Nonconformity" 0.00257 "Close conformity" 0.00086 "Marginally acceptable conformity" 0.002 4
+"784" "Nonconformity" 0.00232 "Close conformity" 0.00098 "Marginally acceptable conformity" 0.00209 4
+"785" "Nonconformity" 0.00274 "Close conformity" 0.00101 "Nonconformity" 0.00226 4
+"786" "Nonconformity" 0.00233 "Close conformity" 0.00092 "Marginally acceptable conformity" 0.00217 4
+"787" "Nonconformity" 0.0027 "Close conformity" 0.00097 "Nonconformity" 0.00236 4
+"788" "Nonconformity" 0.00281 "Close conformity" 0.00085 "Nonconformity" 0.00225 4
+"789" "Nonconformity" 0.00258 "Close conformity" 0.00104 "Nonconformity" 0.0023 4
+"790" "Nonconformity" 0.00268 "Close conformity" 0.00091 "Nonconformity" 0.00238 4
+"791" "Nonconformity" 0.00274 "Close conformity" 0.00097 "Nonconformity" 0.00239 4
+"792" "Nonconformity" 0.00268 "Close conformity" 0.00105 "Nonconformity" 0.00223 4
+"793" "Nonconformity" 0.00248 "Acceptable conformity" 0.00133 "Marginally acceptable conformity" 0.00215 4
+"794" "Nonconformity" 0.0026 "Close conformity" 0.00102 "Marginally acceptable conformity" 0.00201 4
+"795" "Nonconformity" 0.0024 "Close conformity" 0.00109 "Marginally acceptable conformity" 0.00207 4
+"796" "Nonconformity" 0.00246 "Close conformity" 0.00118 "Nonconformity" 0.00243 4
+"797" "Nonconformity" 0.0028 "Close conformity" 0.00107 "Marginally acceptable conformity" 0.00207 4
+"798" "Nonconformity" 0.00262 "Acceptable conformity" 0.00133 "Nonconformity" 0.00226 4
+"799" "Nonconformity" 0.00257 "Close conformity" 9e-04 "Marginally acceptable conformity" 0.00215 4
+"800" "Nonconformity" 0.0025 "Close conformity" 0.00092 "Nonconformity" 0.00228 4
+"801" "Nonconformity" 0.00247 "Nonconformity" 0.00297 "Acceptable conformity" 0.00167 5
+"802" "Nonconformity" 0.00229 "Nonconformity" 0.00294 "Marginally acceptable conformity" 0.00183 5
+"803" "Nonconformity" 0.0025 "Nonconformity" 0.00289 "Acceptable conformity" 0.00168 5
+"804" "Nonconformity" 0.00277 "Nonconformity" 0.00305 "Marginally acceptable conformity" 0.00183 5
+"805" "Nonconformity" 0.00261 "Nonconformity" 0.00296 "Acceptable conformity" 0.00164 5
+"806" "Nonconformity" 0.00243 "Nonconformity" 0.00299 "Marginally acceptable conformity" 0.00185 5
+"807" "Nonconformity" 0.00235 "Nonconformity" 0.00297 "Acceptable conformity" 0.00159 5
+"808" "Nonconformity" 0.0024 "Nonconformity" 0.00292 "Marginally acceptable conformity" 0.00184 5
+"809" "Nonconformity" 0.00264 "Nonconformity" 0.00302 "Acceptable conformity" 0.00169 5
+"810" "Nonconformity" 0.00254 "Nonconformity" 0.00306 "Marginally acceptable conformity" 0.00194 5
+"811" "Nonconformity" 0.00251 "Nonconformity" 0.00294 "Marginally acceptable conformity" 0.00181 5
+"812" "Nonconformity" 0.00255 "Nonconformity" 0.00291 "Acceptable conformity" 0.00177 5
+"813" "Nonconformity" 0.00268 "Nonconformity" 0.00298 "Acceptable conformity" 0.00166 5
+"814" "Nonconformity" 0.00274 "Nonconformity" 0.00294 "Acceptable conformity" 0.00155 5
+"815" "Nonconformity" 0.00249 "Nonconformity" 0.00297 "Acceptable conformity" 0.00174 5
+"816" "Nonconformity" 0.00245 "Nonconformity" 0.00306 "Acceptable conformity" 0.00177 5
+"817" "Nonconformity" 0.00281 "Nonconformity" 0.00296 "Acceptable conformity" 0.0018 5
+"818" "Nonconformity" 0.00251 "Nonconformity" 0.00295 "Acceptable conformity" 0.00174 5
+"819" "Nonconformity" 0.00275 "Nonconformity" 0.00291 "Marginally acceptable conformity" 0.00184 5
+"820" "Nonconformity" 0.00267 "Nonconformity" 0.00292 "Acceptable conformity" 0.00164 5
+"821" "Nonconformity" 0.00264 "Nonconformity" 0.00298 "Acceptable conformity" 0.00171 5
+"822" "Nonconformity" 0.0026 "Nonconformity" 0.003 "Marginally acceptable conformity" 0.00193 5
+"823" "Nonconformity" 0.00238 "Nonconformity" 0.00295 "Acceptable conformity" 0.00157 5
+"824" "Nonconformity" 0.00257 "Nonconformity" 0.00296 "Marginally acceptable conformity" 0.00202 5
+"825" "Nonconformity" 0.0024 "Nonconformity" 0.00295 "Acceptable conformity" 0.00158 5
+"826" "Nonconformity" 0.00251 "Nonconformity" 0.00295 "Acceptable conformity" 0.00159 5
+"827" "Nonconformity" 0.00261 "Nonconformity" 0.003 "Acceptable conformity" 0.00159 5
+"828" "Marginally acceptable conformity" 0.00214 "Nonconformity" 0.0029 "Acceptable conformity" 0.00159 5
+"829" "Nonconformity" 0.00237 "Nonconformity" 0.003 "Acceptable conformity" 0.00174 5
+"830" "Nonconformity" 0.00267 "Nonconformity" 0.003 "Marginally acceptable conformity" 0.00187 5
+"831" "Nonconformity" 0.00294 "Nonconformity" 0.00297 "Acceptable conformity" 0.0016 5
+"832" "Nonconformity" 0.00265 "Nonconformity" 0.00303 "Acceptable conformity" 0.00168 5
+"833" "Nonconformity" 0.00242 "Nonconformity" 0.00295 "Acceptable conformity" 0.00164 5
+"834" "Nonconformity" 0.00248 "Nonconformity" 0.00288 "Acceptable conformity" 0.00161 5
+"835" "Nonconformity" 0.00247 "Nonconformity" 0.00299 "Acceptable conformity" 0.00152 5
+"836" "Nonconformity" 0.00226 "Nonconformity" 0.00304 "Acceptable conformity" 0.0017 5
+"837" "Nonconformity" 0.0025 "Nonconformity" 0.00298 "Marginally acceptable conformity" 0.00192 5
+"838" "Nonconformity" 0.00253 "Nonconformity" 0.00288 "Acceptable conformity" 0.0017 5
+"839" "Nonconformity" 0.00234 "Nonconformity" 0.00284 "Acceptable conformity" 0.00179 5
+"840" "Nonconformity" 0.00232 "Nonconformity" 0.00302 "Acceptable conformity" 0.00163 5
+"841" "Nonconformity" 0.00249 "Nonconformity" 0.00303 "Acceptable conformity" 0.00176 5
+"842" "Nonconformity" 0.0024 "Nonconformity" 0.00293 "Acceptable conformity" 0.00159 5
+"843" "Nonconformity" 0.00234 "Nonconformity" 0.00299 "Acceptable conformity" 0.00174 5
+"844" "Nonconformity" 0.00254 "Nonconformity" 0.00293 "Marginally acceptable conformity" 0.00199 5
+"845" "Nonconformity" 0.00239 "Nonconformity" 0.00294 "Acceptable conformity" 0.00177 5
+"846" "Nonconformity" 0.00245 "Nonconformity" 0.00313 "Acceptable conformity" 0.00165 5
+"847" "Nonconformity" 0.00281 "Nonconformity" 0.00301 "Marginally acceptable conformity" 0.00182 5
+"848" "Nonconformity" 0.00245 "Nonconformity" 0.003 "Acceptable conformity" 0.00164 5
+"849" "Nonconformity" 0.00242 "Nonconformity" 0.00303 "Acceptable conformity" 0.00167 5
+"850" "Nonconformity" 0.00274 "Nonconformity" 0.00285 "Acceptable conformity" 0.00178 5
+"851" "Nonconformity" 0.00294 "Nonconformity" 0.00291 "Acceptable conformity" 0.00174 5
+"852" "Nonconformity" 0.00246 "Nonconformity" 0.00303 "Acceptable conformity" 0.00165 5
+"853" "Nonconformity" 0.00229 "Nonconformity" 0.00298 "Acceptable conformity" 0.00162 5
+"854" "Nonconformity" 0.0031 "Nonconformity" 0.00299 "Acceptable conformity" 0.0015 5
+"855" "Nonconformity" 0.00262 "Nonconformity" 0.00297 "Acceptable conformity" 0.00171 5
+"856" "Nonconformity" 0.00253 "Nonconformity" 0.00296 "Acceptable conformity" 0.00159 5
+"857" "Nonconformity" 0.00221 "Nonconformity" 0.00294 "Acceptable conformity" 0.00162 5
+"858" "Nonconformity" 0.00246 "Nonconformity" 0.00295 "Acceptable conformity" 0.00158 5
+"859" "Nonconformity" 0.00252 "Nonconformity" 0.00296 "Acceptable conformity" 0.00169 5
+"860" "Nonconformity" 0.0023 "Nonconformity" 0.00295 "Acceptable conformity" 0.00156 5
+"861" "Nonconformity" 0.00271 "Nonconformity" 0.00294 "Acceptable conformity" 0.0017 5
+"862" "Nonconformity" 0.00237 "Nonconformity" 0.00295 "Acceptable conformity" 0.00156 5
+"863" "Nonconformity" 0.00279 "Nonconformity" 0.00294 "Acceptable conformity" 0.00175 5
+"864" "Nonconformity" 0.00276 "Nonconformity" 0.00308 "Acceptable conformity" 0.00178 5
+"865" "Nonconformity" 0.00268 "Nonconformity" 0.00304 "Acceptable conformity" 0.00164 5
+"866" "Nonconformity" 0.00242 "Nonconformity" 0.00294 "Acceptable conformity" 0.00171 5
+"867" "Nonconformity" 0.00275 "Nonconformity" 0.00302 "Marginally acceptable conformity" 0.00181 5
+"868" "Nonconformity" 0.00245 "Nonconformity" 0.00302 "Acceptable conformity" 0.00156 5
+"869" "Nonconformity" 0.00255 "Nonconformity" 0.00294 "Acceptable conformity" 0.00158 5
+"870" "Nonconformity" 0.00265 "Nonconformity" 0.00303 "Marginally acceptable conformity" 0.0018 5
+"871" "Nonconformity" 0.00257 "Nonconformity" 0.00294 "Marginally acceptable conformity" 0.00195 5
+"872" "Nonconformity" 0.00274 "Nonconformity" 0.00303 "Acceptable conformity" 0.00163 5
+"873" "Nonconformity" 0.00279 "Nonconformity" 0.0029 "Acceptable conformity" 0.0017 5
+"874" "Nonconformity" 0.00245 "Nonconformity" 0.00297 "Acceptable conformity" 0.00179 5
+"875" "Marginally acceptable conformity" 0.00209 "Nonconformity" 0.00296 "Marginally acceptable conformity" 0.0018 5
+"876" "Nonconformity" 0.00243 "Nonconformity" 0.00297 "Acceptable conformity" 0.00171 5
+"877" "Nonconformity" 0.00269 "Nonconformity" 0.00306 "Acceptable conformity" 0.00165 5
+"878" "Nonconformity" 0.00242 "Nonconformity" 0.00307 "Marginally acceptable conformity" 0.00181 5
+"879" "Nonconformity" 0.0027 "Nonconformity" 0.00306 "Acceptable conformity" 0.00161 5
+"880" "Nonconformity" 0.00244 "Nonconformity" 0.00305 "Acceptable conformity" 0.00163 5
+"881" "Nonconformity" 0.00268 "Nonconformity" 0.0029 "Acceptable conformity" 0.00178 5
+"882" "Nonconformity" 0.00252 "Nonconformity" 0.00299 "Acceptable conformity" 0.00148 5
+"883" "Marginally acceptable conformity" 0.00215 "Nonconformity" 0.00289 "Acceptable conformity" 0.00163 5
+"884" "Nonconformity" 0.00271 "Nonconformity" 0.00295 "Acceptable conformity" 0.00171 5
+"885" "Nonconformity" 0.00271 "Nonconformity" 0.00291 "Acceptable conformity" 0.00149 5
+"886" "Nonconformity" 0.00254 "Nonconformity" 0.00304 "Acceptable conformity" 0.00164 5
+"887" "Nonconformity" 0.00279 "Nonconformity" 0.00304 "Marginally acceptable conformity" 0.00186 5
+"888" "Nonconformity" 0.00247 "Nonconformity" 0.00303 "Acceptable conformity" 0.00148 5
+"889" "Nonconformity" 0.00268 "Nonconformity" 0.00293 "Acceptable conformity" 0.00166 5
+"890" "Nonconformity" 0.00261 "Nonconformity" 0.00302 "Marginally acceptable conformity" 0.00195 5
+"891" "Nonconformity" 0.0027 "Nonconformity" 0.00287 "Acceptable conformity" 0.0015 5
+"892" "Nonconformity" 0.00246 "Nonconformity" 0.00291 "Acceptable conformity" 0.00169 5
+"893" "Nonconformity" 0.00246 "Nonconformity" 0.00308 "Acceptable conformity" 0.00169 5
+"894" "Nonconformity" 0.00259 "Nonconformity" 0.00293 "Acceptable conformity" 0.00153 5
+"895" "Nonconformity" 0.00259 "Nonconformity" 0.00297 "Acceptable conformity" 0.00154 5
+"896" "Nonconformity" 0.00222 "Nonconformity" 0.00306 "Acceptable conformity" 0.00176 5
+"897" "Nonconformity" 0.00225 "Nonconformity" 0.00292 "Acceptable conformity" 0.00171 5
+"898" "Nonconformity" 0.00263 "Nonconformity" 0.00298 "Acceptable conformity" 0.00163 5
+"899" "Nonconformity" 0.00244 "Nonconformity" 0.0029 "Acceptable conformity" 0.00154 5
+"900" "Nonconformity" 0.00245 "Nonconformity" 0.00306 "Acceptable conformity" 0.00167 5
+"901" "Nonconformity" 0.00233 "Nonconformity" 0.00292 "Acceptable conformity" 0.00153 5
+"902" "Nonconformity" 0.00234 "Nonconformity" 0.00289 "Acceptable conformity" 0.00176 5
+"903" "Nonconformity" 0.00254 "Nonconformity" 0.00297 "Acceptable conformity" 0.0017 5
+"904" "Nonconformity" 0.00233 "Nonconformity" 0.00291 "Acceptable conformity" 0.00177 5
+"905" "Nonconformity" 0.00253 "Nonconformity" 0.00288 "Acceptable conformity" 0.00153 5
+"906" "Nonconformity" 0.00282 "Nonconformity" 0.00305 "Marginally acceptable conformity" 0.00189 5
+"907" "Nonconformity" 0.00241 "Nonconformity" 0.00293 "Acceptable conformity" 0.00159 5
+"908" "Nonconformity" 0.00258 "Nonconformity" 0.00305 "Acceptable conformity" 0.00151 5
+"909" "Nonconformity" 0.0027 "Nonconformity" 0.0029 "Acceptable conformity" 0.00174 5
+"910" "Nonconformity" 0.00271 "Nonconformity" 0.00298 "Acceptable conformity" 0.00173 5
+"911" "Marginally acceptable conformity" 0.0019 "Nonconformity" 0.00291 "Acceptable conformity" 0.00177 5
+"912" "Nonconformity" 0.00269 "Nonconformity" 0.003 "Marginally acceptable conformity" 0.00181 5
+"913" "Nonconformity" 0.00251 "Nonconformity" 0.00288 "Marginally acceptable conformity" 0.00185 5
+"914" "Nonconformity" 0.00237 "Nonconformity" 0.00301 "Acceptable conformity" 0.00175 5
+"915" "Nonconformity" 0.00278 "Nonconformity" 0.00287 "Marginally acceptable conformity" 0.00187 5
+"916" "Nonconformity" 0.00259 "Nonconformity" 0.00299 "Acceptable conformity" 0.00157 5
+"917" "Nonconformity" 0.00246 "Nonconformity" 0.00294 "Acceptable conformity" 0.00168 5
+"918" "Nonconformity" 0.00294 "Nonconformity" 0.00298 "Marginally acceptable conformity" 0.0018 5
+"919" "Marginally acceptable conformity" 0.00214 "Nonconformity" 0.00292 "Acceptable conformity" 0.00157 5
+"920" "Nonconformity" 0.00249 "Nonconformity" 0.00304 "Acceptable conformity" 0.00167 5
+"921" "Nonconformity" 0.00287 "Nonconformity" 0.00302 "Marginally acceptable conformity" 0.00191 5
+"922" "Marginally acceptable conformity" 0.00215 "Nonconformity" 0.00296 "Marginally acceptable conformity" 0.00184 5
+"923" "Nonconformity" 0.00235 "Nonconformity" 0.00304 "Acceptable conformity" 0.00164 5
+"924" "Nonconformity" 0.00257 "Nonconformity" 0.00302 "Acceptable conformity" 0.0018 5
+"925" "Nonconformity" 0.00265 "Nonconformity" 0.00293 "Acceptable conformity" 0.00177 5
+"926" "Nonconformity" 0.00262 "Nonconformity" 0.00304 "Acceptable conformity" 0.00175 5
+"927" "Nonconformity" 0.00274 "Nonconformity" 0.00304 "Acceptable conformity" 0.00163 5
+"928" "Nonconformity" 0.00281 "Nonconformity" 0.00297 "Acceptable conformity" 0.00158 5
+"929" "Nonconformity" 0.00269 "Nonconformity" 0.00294 "Acceptable conformity" 0.00178 5
+"930" "Nonconformity" 0.00272 "Nonconformity" 0.003 "Acceptable conformity" 0.00175 5
+"931" "Nonconformity" 0.00247 "Nonconformity" 0.00291 "Acceptable conformity" 0.00153 5
+"932" "Nonconformity" 0.00285 "Nonconformity" 0.003 "Marginally acceptable conformity" 0.00187 5
+"933" "Nonconformity" 0.00248 "Nonconformity" 0.00289 "Marginally acceptable conformity" 0.0018 5
+"934" "Nonconformity" 0.00232 "Nonconformity" 0.0029 "Acceptable conformity" 0.00155 5
+"935" "Nonconformity" 0.00248 "Nonconformity" 0.00301 "Acceptable conformity" 0.00166 5
+"936" "Nonconformity" 0.00281 "Nonconformity" 0.00293 "Marginally acceptable conformity" 0.00182 5
+"937" "Nonconformity" 0.00226 "Nonconformity" 0.00293 "Marginally acceptable conformity" 0.00182 5
+"938" "Nonconformity" 0.00233 "Nonconformity" 0.00299 "Acceptable conformity" 0.0017 5
+"939" "Nonconformity" 0.00282 "Nonconformity" 0.00305 "Acceptable conformity" 0.00162 5
+"940" "Nonconformity" 0.00253 "Nonconformity" 0.00306 "Acceptable conformity" 0.00158 5
+"941" "Nonconformity" 0.00259 "Nonconformity" 0.00293 "Acceptable conformity" 0.00176 5
+"942" "Nonconformity" 0.0024 "Nonconformity" 0.00296 "Acceptable conformity" 0.00156 5
+"943" "Nonconformity" 0.00267 "Nonconformity" 0.00299 "Acceptable conformity" 0.00173 5
+"944" "Nonconformity" 0.00257 "Nonconformity" 0.00302 "Acceptable conformity" 0.0016 5
+"945" "Nonconformity" 0.00262 "Nonconformity" 0.00307 "Acceptable conformity" 0.00168 5
+"946" "Nonconformity" 0.00264 "Nonconformity" 0.00296 "Acceptable conformity" 0.00166 5
+"947" "Nonconformity" 0.00255 "Nonconformity" 0.00294 "Acceptable conformity" 0.0017 5
+"948" "Nonconformity" 0.00257 "Nonconformity" 0.00302 "Acceptable conformity" 0.00172 5
+"949" "Nonconformity" 0.00237 "Nonconformity" 0.00297 "Marginally acceptable conformity" 0.00187 5
+"950" "Nonconformity" 0.00248 "Nonconformity" 0.00304 "Acceptable conformity" 0.00167 5
+"951" "Nonconformity" 0.00276 "Nonconformity" 0.00295 "Acceptable conformity" 0.00178 5
+"952" "Nonconformity" 0.00269 "Nonconformity" 0.0029 "Acceptable conformity" 0.00169 5
+"953" "Nonconformity" 0.00276 "Nonconformity" 0.00298 "Marginally acceptable conformity" 0.00188 5
+"954" "Nonconformity" 0.00266 "Nonconformity" 0.00302 "Acceptable conformity" 0.00158 5
+"955" "Nonconformity" 0.0025 "Nonconformity" 0.00298 "Acceptable conformity" 0.00164 5
+"956" "Nonconformity" 0.00251 "Nonconformity" 0.00294 "Marginally acceptable conformity" 0.00181 5
+"957" "Nonconformity" 0.00247 "Nonconformity" 0.00298 "Acceptable conformity" 0.00154 5
+"958" "Nonconformity" 0.00269 "Nonconformity" 0.00303 "Acceptable conformity" 0.00164 5
+"959" "Marginally acceptable conformity" 0.00214 "Nonconformity" 0.00297 "Acceptable conformity" 0.0015 5
+"960" "Nonconformity" 0.00232 "Nonconformity" 0.00301 "Acceptable conformity" 0.00168 5
+"961" "Nonconformity" 0.00253 "Nonconformity" 0.003 "Acceptable conformity" 0.0018 5
+"962" "Marginally acceptable conformity" 0.0021 "Nonconformity" 0.00299 "Acceptable conformity" 0.00156 5
+"963" "Nonconformity" 0.00285 "Nonconformity" 0.0029 "Acceptable conformity" 0.00168 5
+"964" "Nonconformity" 0.00238 "Nonconformity" 0.00299 "Acceptable conformity" 0.00139 5
+"965" "Nonconformity" 0.00253 "Nonconformity" 0.003 "Acceptable conformity" 0.00175 5
+"966" "Nonconformity" 0.00287 "Nonconformity" 0.00307 "Acceptable conformity" 0.00175 5
+"967" "Nonconformity" 0.00283 "Nonconformity" 0.00305 "Marginally acceptable conformity" 0.00182 5
+"968" "Nonconformity" 0.00259 "Nonconformity" 0.00309 "Marginally acceptable conformity" 0.00185 5
+"969" "Nonconformity" 0.00232 "Nonconformity" 0.0031 "Acceptable conformity" 0.00169 5
+"970" "Nonconformity" 0.00243 "Nonconformity" 0.00289 "Acceptable conformity" 0.00178 5
+"971" "Nonconformity" 0.00242 "Nonconformity" 0.00285 "Acceptable conformity" 0.00178 5
+"972" "Marginally acceptable conformity" 0.00216 "Nonconformity" 0.00292 "Acceptable conformity" 0.00161 5
+"973" "Nonconformity" 0.00221 "Nonconformity" 0.00295 "Acceptable conformity" 0.00154 5
+"974" "Nonconformity" 0.00251 "Nonconformity" 0.00309 "Acceptable conformity" 0.00155 5
+"975" "Nonconformity" 0.00246 "Nonconformity" 0.00295 "Acceptable conformity" 0.00156 5
+"976" "Nonconformity" 0.0026 "Nonconformity" 0.00299 "Marginally acceptable conformity" 0.00181 5
+"977" "Nonconformity" 0.00245 "Nonconformity" 0.0029 "Marginally acceptable conformity" 0.00187 5
+"978" "Nonconformity" 0.00238 "Nonconformity" 0.0029 "Acceptable conformity" 0.00161 5
+"979" "Nonconformity" 0.00251 "Nonconformity" 0.003 "Acceptable conformity" 0.0018 5
+"980" "Nonconformity" 0.00252 "Nonconformity" 0.00302 "Acceptable conformity" 0.00164 5
+"981" "Nonconformity" 0.00258 "Nonconformity" 0.00285 "Acceptable conformity" 0.00164 5
+"982" "Nonconformity" 0.00263 "Nonconformity" 0.00291 "Acceptable conformity" 0.0016 5
+"983" "Nonconformity" 0.00238 "Nonconformity" 0.00299 "Acceptable conformity" 0.00149 5
+"984" "Nonconformity" 0.00259 "Nonconformity" 0.00292 "Acceptable conformity" 0.00164 5
+"985" "Nonconformity" 0.00297 "Nonconformity" 0.00296 "Acceptable conformity" 0.0017 5
+"986" "Nonconformity" 0.0027 "Nonconformity" 0.00296 "Acceptable conformity" 0.00157 5
+"987" "Nonconformity" 0.00239 "Nonconformity" 0.00303 "Acceptable conformity" 0.00171 5
+"988" "Nonconformity" 0.00242 "Nonconformity" 0.0029 "Acceptable conformity" 0.00179 5
+"989" "Nonconformity" 0.00249 "Nonconformity" 0.003 "Acceptable conformity" 0.0016 5
+"990" "Nonconformity" 0.0028 "Nonconformity" 0.00295 "Acceptable conformity" 0.0017 5
+"991" "Nonconformity" 0.00264 "Nonconformity" 0.00299 "Acceptable conformity" 0.00164 5
+"992" "Nonconformity" 0.00226 "Nonconformity" 0.00289 "Marginally acceptable conformity" 0.00192 5
+"993" "Nonconformity" 0.00251 "Nonconformity" 0.0029 "Acceptable conformity" 0.00157 5
+"994" "Nonconformity" 0.00259 "Nonconformity" 0.00299 "Marginally acceptable conformity" 0.00192 5
+"995" "Nonconformity" 0.00248 "Nonconformity" 0.00292 "Acceptable conformity" 0.00165 5
+"996" "Nonconformity" 0.0026 "Nonconformity" 0.00301 "Marginally acceptable conformity" 0.00195 5
+"997" "Marginally acceptable conformity" 0.00212 "Nonconformity" 0.0029 "Acceptable conformity" 0.00163 5
+"998" "Nonconformity" 0.00224 "Nonconformity" 0.00298 "Marginally acceptable conformity" 0.00189 5
+"999" "Nonconformity" 0.0027 "Nonconformity" 0.00294 "Marginally acceptable conformity" 0.00185 5
+"1000" "Nonconformity" 0.00248 "Nonconformity" 0.00291 "Acceptable conformity" 0.00157 5
